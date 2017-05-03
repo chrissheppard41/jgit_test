@@ -1,29 +1,29 @@
 ---
 layout: news
-title: May 'worst month for drink-driving' | Quotezone.co.uk
+title: Conservatives promise price cap on energy bills | Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
   description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
-categories: ['Car Insurance']
+categories: ['Other Insurance']
 tags: ['Apr 2017', 'Story', 'News']
-permalink: /news/May-worst-month-for-drink-driving-.md
-date: 2017-04-28 07:30:00
+permalink: /news/Conservatives-promise-price-cap-on-energy-bills.md
+date: 2017-04-25 07:30:00
 news:
-  title: May 'worst month for drink-driving'
+  title: Conservatives promise price cap on energy bills
   image:
-    feature: http://pictures.directnews.co.uk/liveimages/may+worst+month+for+drink+driving+istock_1789_801835332_0_0_14121368_300.jpg
-    teaser: http://pictures.directnews.co.uk/liveimages/may+worst+month+for+drink+driving+istock_1789_801835332_0_0_14121368_100.jpg
-    thumb: http://pictures.directnews.co.uk/liveimages/may+worst+month+for+drink+driving+istock_1789_801835332_0_0_14121368_100.jpg
+    feature: http://pictures.directnews.co.uk/liveimages/conservatives+promise+price+cap+on+energy+bills+philip+toscano+pa+wire+pa+images_1789_801835126_0_0_14122724_300.jpg
+    teaser: http://pictures.directnews.co.uk/liveimages/conservatives+promise+price+cap+on+energy+bills+philip+toscano+pa+wire+pa+images_1789_801835126_0_0_14122724_100.jpg
+    thumb: http://pictures.directnews.co.uk/liveimages/conservatives+promise+price+cap+on+energy+bills+philip+toscano+pa+wire+pa+images_1789_801835126_0_0_14122724_100.jpg
   feed: Axonn
   call_to_actions:
-    - Car Insurance
+    - Other Insurance
 breadcrumb:
   - title: News
     url: /news/index.htm
-  - title: Car Insurance
-    url: /news/car_insurance/index.htm
-  - title: May 'worst month for drink-driving'
+  - title: Other Insurance
+    url: /news/other_insurance/index.htm
+  - title: Conservatives promise price cap on energy bills
 footer: 1
 ---
 
-Nothing can push up the cost of car insurance more than having an accident and losing a no-claims bonus, but that is the threat faced by motorists from drink-drivers more in May than any other time of the year.<br/><br/>Next month has been identified by Admiral Insurance as a time when the level of offending is greatest, which may come as a surprise to those who might imagine that December - so often the target of pre-Christmas TV and poster campaigns against drink-driving - would be worst-affected.<br/><br/>However, the firm&#39;s Freedom of Information request to 45 police forces across Britain revealed that May is indeed the worst, with the number of positive tests in the month in 2014, 2015 and 2016 totalling 15.1 per cent. Cambridgeshire showed the highest rate of positive tests in May of any force, with 36 per cent of drivers tested in the county over the limit. &nbsp;<br/><br/>The figure comes in stark contrast with June, which has the second-lowest level at 7.3 per cent, so it cannot be attributed to the arrival of long, light evenings.&nbsp;<br/><br/>December actually emerged as the month with the lowest number of positive tests, with only 4.3 per cent testing positive - strongly suggesting the campaigns against drink-driving and the deterrent effect of a greater presence of police on the roads testing motorists have had a positive effect.<br/><br/>Motor product manager at Admiral Jo Cox said: &quot;It may come as a surprise that May is the month where the highest percentage of people test positive for drink-driving and not the festive season. This new data suggests that as the temperature rises - and we see a succession of bank holidays - drivers are risking flouting the law and getting behind the wheel after drinking.&quot;<br/><br/>Those whose cars are hit by drink drivers might lose their no-claims bonus, but matters will be much worse for those caught over the limit; insurance premiums may rise by over 250 per cent and some might not be able to get insurance at all.&nbsp;<br/><br/>Among the reasons December drink-driving is so low may also be initiatives aimed at encouraging designated drivers to stay dry, such as pubs providing them with free soft beverages. &nbsp;<img alt="ADNFCR-1789-ID-801835332-ADNFCR" src="http://feeds.directnews.co.uk/feedtrack/justcopyright.gif?feedid=1789&itemid=801835332" />
+The Conservative party will legislate to cap energy bills for around seven out of ten households if it wins the general election, in a move that represents a significant u-turn on previous policies.<br/><br/>Work and Pensions Secretary Damian Green told ITV ?that ?many consumers felt they were ?being ?&quot;taken advantage of&quot; by energy firms and said action was needed. According to the Sunday Times, the measures could save the typical household up to &pound;100 a month.<br/><br/>The party had previously opposed such direct intervention in the market and had criticised proposals made by Labour before the last election to cap prices. &nbsp;<br/><br/>While Labour accused the Tories of shamelessly stealing one of its policies, some energy firms have criticised the idea and argued it is the wrong way to approach the issue, claiming there would be less competition and higher prices.<br/><br/>Opponents include Centrica boss Iain Conn. he told the BBC Radio 4 Today programme: &quot;I&#39;m absolutely for competition, choice, different products, and we believe very strongly that there are different ways to intervene in the market.<br/><br/>&quot;I&#39;m the first to admit that governments and regulators do have to set the conditions within which markets operate.<br/><br/>&quot;But clearly there are ways of doing this. I think there are some at the heart of the government who just don&#39;t believe in free markets.&quot;<br/><br/>Any action by the government to cap prices will have to wait for legislation to be passed after the election. That means consumers can still benefit from looking to switch to a better price in the meantime, not least with several suppliers recently announcing price hikes.<br/><br/>The cap would not be an entirely new measure for the Conservative government. Earlier this month, a cap on pre-payment meter costs was introduced after the Competition and Markets Authority published a report stating consumers using these were overpaying by a collective &pound;1.4 billion.<img alt="ADNFCR-1789-ID-801835126-ADNFCR" src="http://feeds.directnews.co.uk/feedtrack/justcopyright.gif?feedid=1789&itemid=801835126" />
