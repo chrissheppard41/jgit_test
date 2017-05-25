@@ -10,7 +10,6 @@ permalink: news/Flat-prices-more-than-double-in-eight-years.htm
 date: 2017-05-23 07:30:00
 news:
   title: Flat prices more than double in eight years  
-  image: Flat-prices-more-than-double-in-eight-years
   feed: Axonn
   call_to_actions:
     - Home Insurance
