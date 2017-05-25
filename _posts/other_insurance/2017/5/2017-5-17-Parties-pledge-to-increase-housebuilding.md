@@ -10,6 +10,7 @@ permalink: news/Parties-pledge-to-increase-housebuilding.htm
 date: 2017-05-17 07:30:00
 news:
   title: Parties pledge to increase housebuilding
+  image: Parties-pledge-to-increase-housebuilding
   feed: Axonn
   call_to_actions:
     - Other Insurance

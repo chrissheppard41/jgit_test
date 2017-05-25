@@ -10,7 +10,6 @@ permalink: news/Ideal-homes-have-two-bathrooms-to-every-three-bedrooms-.htm
 date: 2017-05-24 07:30:00
 news:
   title: Ideal homes 'have two bathrooms to every three bedrooms'
-  image: Ideal-homes-have-two-bathrooms-to-every-three-bedrooms-
   feed: Axonn
   call_to_actions:
     - Home Insurance

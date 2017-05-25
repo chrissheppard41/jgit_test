@@ -10,6 +10,7 @@ permalink: news/Unusual-holiday-choice-could-save-holidaymakers-lots-of-money-.h
 date: 2017-05-22 07:30:00
 news:
   title: Unusual holiday choice 'could save holidaymakers lots of money'
+  image: Unusual-holiday-choice-could-save-holidaymakers-lots-of-money-
   feed: Axonn
   call_to_actions:
     - Travel Insurance

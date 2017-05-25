@@ -10,6 +10,7 @@ permalink: news/Tories-promise-more-electric-cars-and-vans.htm
 date: 2017-05-19 07:30:00
 news:
   title: Tories promise more electric cars and vans
+  image: Tories-promise-more-electric-cars-and-vans
   feed: Axonn
   call_to_actions:
     - Other Insurance
