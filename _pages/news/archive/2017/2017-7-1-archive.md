@@ -12,10 +12,10 @@ date: 2017-7-1 00:00:00
 filter: Jul 2017
 news:
   title: Jul 2017
-  breadcrumb:
-    - title: News
-      url: /news/index.htm
-    - title: Jul 2017
+breadcrumb:
+  - title: News
+    url: /news/index.htm
+  - title: Jul 2017
 footer: 1
 ---
 
