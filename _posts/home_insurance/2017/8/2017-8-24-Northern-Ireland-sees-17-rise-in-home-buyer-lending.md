@@ -4,7 +4,7 @@ title: Northern Ireland sees 17% rise in home buyer lending - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
   description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
-categories: ['Category{id=800172717, name='Home Insurance', website='Compareni'}']
+categories: ['Home Insurance']
 tags: ['Aug 2017', 'Story', 'News']
 permalink: news/Northern-Ireland-sees-17-rise-in-home-buyer-lending.htm
 date: 2017-08-24 07:30:00
@@ -13,11 +13,11 @@ news:
   image: 14117095
   feed: Axonn
   call_to_actions:
-    - Category{id=800172717, name='Home Insurance', website='Compareni'}
+    - Home Insurance
 breadcrumb:
   - title: News
     url: /news/index.htm
-  - title: Category{id=800172717, name='Home Insurance', website='Compareni'}
+  - title: Home Insurance
     url: /news/home_insurance/index.htm
   - title: Northern Ireland sees 17% rise in home buyer lending
 footer: 1
