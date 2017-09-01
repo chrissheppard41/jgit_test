@@ -10,7 +10,7 @@ permalink: news/Northern-Ireland-flooding-continues-to-take-its-toll.htm
 date: 2017-08-31 07:30:00
 news:
   title: Northern Ireland flooding continues to take its toll
-  image: 14108438
+  image: 14124040
   feed: Axonn
   call_to_actions:
     - Home Insurance
