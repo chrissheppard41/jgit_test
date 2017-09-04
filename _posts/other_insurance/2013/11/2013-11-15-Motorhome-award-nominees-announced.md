@@ -3,7 +3,7 @@ layout: news
 title: Motorhome award nominees announced - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Which Motorhome has announced its nominees for next year&#39;s prestigious motorhome of the year titles in partnership with Motorcaravan Motorhome Mon
+  description: Which Motorhome has announced its nominees for next year&#39;s prestigious motorhome of the year titles in partnership with Motorcaravan Motorhome Monthly&nbsp;(MMM)
 categories: ['Other Insurance']
 tags: ['Nov 2013', 'Story', 'News']
 permalink: news/Motorhome-award-nominees-announced.htm

@@ -3,9 +3,7 @@ layout: news
 title: Dog owners urged not to feed pets chocolate this Easter - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Dog owners have been reminded that chocolate can be highly poisonous to canines.
-
-According to the British Veterinary Association (BVA), 54 per cent o
+  description: Dog owners have been reminded that chocolate can be highly poisonous to canines
 categories: ['Other Insurance']
 tags: ['Apr 2015', 'Story', 'News']
 permalink: news/Dog-owners-urged-not-to-feed-pets-chocolate-this-Easter.htm

@@ -3,9 +3,7 @@ layout: news
 title: CML reports drop in mortgage arrears - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Fewer mortgage holders are finding themselves in arrears, a new report has revealed.
-
-According to the Council of Mortgage Lenders (CML), the total pr
+  description: Fewer mortgage holders are finding themselves in arrears, a new report has revealed
 categories: ['Other Insurance']
 tags: ['May 2015', 'Story', 'News']
 permalink: news/CML-reports-drop-in-mortgage-arrears.htm

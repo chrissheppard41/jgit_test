@@ -3,7 +3,7 @@ layout: news
 title: Number of new car registrations 'highest in five years' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: The number of new vehicle sales in Northern Ireland (NI) has increased by nearly ten per cent in the past year, signalling the ongoing economic recove
+  description: The number of new vehicle sales in Northern Ireland (NI) has increased by nearly ten per cent in the past year, signalling the ongoing economic recovery, a survey has revealed
 categories: ['Other Insurance']
 tags: ['Nov 2014', 'Story', 'News']
 permalink: news/Number-of-new-car-registrations-highest-in-five-years-.htm

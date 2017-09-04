@@ -3,7 +3,7 @@ layout: news
 title: Protect your home against extreme weather - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Property owners across Northern Ireland will be acutely aware that the weather has taken a significant turn for the worse over recent weeks as winter
+  description: Property owners across Northern Ireland will be acutely aware that the weather has taken a significant turn for the worse over recent weeks as winter sets in
 categories: ['Other Insurance']
 tags: ['Dec 2013', 'Story', 'News']
 permalink: news/Protect-your-home-against-extreme-weather.htm

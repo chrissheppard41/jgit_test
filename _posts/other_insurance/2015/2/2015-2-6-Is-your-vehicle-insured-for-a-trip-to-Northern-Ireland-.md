@@ -3,7 +3,7 @@ layout: news
 title: Is your vehicle insured for a trip to Northern Ireland? - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: If you&#39;re planning a holiday or business trip in Northern Ireland, or heading home to see friends and family, it&#39;s quite possible you&#39;ll w
+  description: If you&#39;re planning a holiday or business trip in Northern Ireland, or heading home to see friends and family, it&#39;s quite possible you&#39;ll want to bring your car with you
 categories: ['Other Insurance']
 tags: ['Feb 2015', 'Story', 'News']
 permalink: news/Is-your-vehicle-insured-for-a-trip-to-Northern-Ireland-.htm

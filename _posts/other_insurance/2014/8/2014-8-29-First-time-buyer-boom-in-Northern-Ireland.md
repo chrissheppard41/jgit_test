@@ -3,7 +3,7 @@ layout: news
 title: First-time buyer boom in Northern Ireland - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: New figures from the Council of Mortgage Lenders (CML) have highlighted a considerable upturn in the number of first-time buyers entering the Northern
+  description: New figures from the Council of Mortgage Lenders (CML) have highlighted a considerable upturn in the number of first-time buyers entering the Northern Ireland property market in recent months
 categories: ['Other Insurance']
 tags: ['Aug 2014', 'Story', 'News']
 permalink: news/First-time-buyer-boom-in-Northern-Ireland.htm

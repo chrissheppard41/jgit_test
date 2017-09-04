@@ -3,7 +3,7 @@ layout: news
 title: Overseas breakdown woes revealed - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Individuals heading abroad will often either hire a car or take their own to enable them to better explore their new surroundings, but with this comes
+  description: Individuals heading abroad will often either hire a car or take their own to enable them to better explore their new surroundings, but with this comes a risk they could be left high and dry at the side of the road
 categories: ['Other Insurance']
 tags: ['Jul 2014', 'Story', 'News']
 permalink: news/Overseas-breakdown-woes-revealed.htm

@@ -3,7 +3,7 @@ layout: news
 title: Home buyers 'often face hidden problems' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: New research published by insurer LV= has revealed the extent to which property buyers across the UK are being faced with unexpected problems with the
+  description: New research published by insurer LV= has revealed the extent to which property buyers across the UK are being faced with unexpected problems with their new home
 categories: ['Other Insurance']
 tags: ['May 2014', 'Story', 'News']
 permalink: news/Home-buyers-often-face-hidden-problems-.htm

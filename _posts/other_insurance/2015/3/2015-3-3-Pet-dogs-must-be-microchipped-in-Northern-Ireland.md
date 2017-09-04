@@ -3,9 +3,7 @@ layout: news
 title: Pet dogs must be microchipped in Northern Ireland - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: If you&#39;re a dog owner living in Northern Ireland, you should have your pet microchipped by now and have added your personal details.
-
-This is beca
+  description: If you&#39;re a dog owner living in Northern Ireland, you should have your pet microchipped by now and have added your personal details
 categories: ['Other Insurance']
 tags: ['Mar 2015', 'Story', 'News']
 permalink: news/Pet-dogs-must-be-microchipped-in-Northern-Ireland.htm

@@ -3,9 +3,7 @@ layout: news
 title: Northern Ireland homes 'need insulation' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Thousands of homes across Northern Ireland could benefit from the installation of additional energy efficiency measures, new research has revealed.
-
-F
+  description: Thousands of homes across Northern Ireland could benefit from the installation of additional energy efficiency measures, new research has revealed
 categories: ['Other Insurance']
 tags: ['Jan 2014', 'Story', 'News']
 permalink: news/Northern-Ireland-homes-need-insulation-.htm

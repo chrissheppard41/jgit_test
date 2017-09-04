@@ -3,7 +3,7 @@ layout: news
 title: Holidaymakers 'should budget ahead of time' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: New research has highlighted the fact that UK holidaymakers may be planning to spend that little bit more when travelling abroad this year, but also t
+  description: New research has highlighted the fact that UK holidaymakers may be planning to spend that little bit more when travelling abroad this year, but also the fact that a considerable proportion of travellers do not set a budget for their vacation spending
 categories: ['Other Insurance']
 tags: ['Aug 2014', 'Story', 'News']
 permalink: news/Holidaymakers-should-budget-ahead-of-time-.htm

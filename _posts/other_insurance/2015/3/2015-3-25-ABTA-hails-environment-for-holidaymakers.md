@@ -3,9 +3,7 @@ layout: news
 title: ABTA hails environment for holidaymakers - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Holidaymakers should find their money goes much further this year than it did in 2014, an expert has said.
-
-According to Sean Tipton of ABTA, tourists
+  description: Holidaymakers should find their money goes much further this year than it did in 2014, an expert has said
 categories: ['Other Insurance']
 tags: ['Mar 2015', 'Story', 'News']
 permalink: news/ABTA-hails-environment-for-holidaymakers.htm

@@ -3,7 +3,7 @@ layout: news
 title: Vehicles 'need safety spring clean' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Motorists need to make sure their car is prepared for the spring months to reduce the risk of suffering an accident on the road, one safety charity ha
+  description: Motorists need to make sure their car is prepared for the spring months to reduce the risk of suffering an accident on the road, one safety charity has advised
 categories: ['Other Insurance']
 tags: ['Mar 2014', 'Story', 'News']
 permalink: news/Vehicles-need-safety-spring-clean-.htm

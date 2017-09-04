@@ -3,7 +3,7 @@ layout: news
 title: Give your pets a merry Christmas - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: People across Northern Ireland are getting ready today to ring in the festive cheer, but individuals who wish to give their pet a merry Christmas have
+  description: People across Northern Ireland are getting ready today to ring in the festive cheer, but individuals who wish to give their pet a merry Christmas have been urged not to do so by feeding them a portion of the Christmas dinner
 categories: ['Other Insurance']
 tags: ['Dec 2013', 'Story', 'News']
 permalink: news/Give-your-pets-a-merry-Christmas.htm

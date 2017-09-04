@@ -3,7 +3,7 @@ layout: news
 title: Pet owners 'embrace social media' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Nearly one in ten (seven per cent) pet owners across the UK admit to having a social media account in the name of their beloved pet, new research has
+  description: Nearly one in ten (seven per cent) pet owners across the UK admit to having a social media account in the name of their beloved pet, new research has shown
 categories: ['Other Insurance']
 tags: ['Apr 2014', 'Story', 'News']
 permalink: news/Pet-owners-embrace-social-media-.htm

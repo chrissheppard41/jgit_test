@@ -3,7 +3,7 @@ layout: news
 title: Failing to read the small print could cost you - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Customers who misunderstand - or simply choose not to read - financial terms and conditions have found themselves out of pocket, new research has sugg
+  description: Customers who misunderstand - or simply choose not to read - financial terms and conditions have found themselves out of pocket, new research has suggested
 categories: ['Other Insurance']
 tags: ['Sep 2014', 'Story', 'News']
 permalink: news/Failing-to-read-the-small-print-could-cost-you.htm

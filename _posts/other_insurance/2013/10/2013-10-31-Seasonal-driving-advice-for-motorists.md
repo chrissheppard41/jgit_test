@@ -3,7 +3,7 @@ layout: news
 title: Seasonal driving advice for motorists - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: With the nights becoming darker earlier and the weather becoming wetter and colder, now is the time of year when motorists up and down the country nee
+  description: With the nights becoming darker earlier and the weather becoming wetter and colder, now is the time of year when motorists up and down the country need to brush up on their skills for driving at night and in more hazardous surroundings
 categories: ['Other Insurance']
 tags: ['Oct 2013', 'Story', 'News']
 permalink: news/Seasonal-driving-advice-for-motorists.htm

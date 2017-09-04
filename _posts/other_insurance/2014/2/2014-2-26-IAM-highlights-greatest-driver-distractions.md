@@ -3,7 +3,7 @@ layout: news
 title: IAM highlights greatest driver distractions - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: New research published by the Institute of Advanced Motorists (IAM) has highlighted the most likely causes of distraction for vehicle operators on the
+  description: New research published by the Institute of Advanced Motorists (IAM) has highlighted the most likely causes of distraction for vehicle operators on the UK&#39;s roads
 categories: ['Other Insurance']
 tags: ['Feb 2014', 'Story', 'News']
 permalink: news/IAM-highlights-greatest-driver-distractions.htm

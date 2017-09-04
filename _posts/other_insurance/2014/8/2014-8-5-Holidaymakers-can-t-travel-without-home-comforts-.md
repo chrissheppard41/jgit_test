@@ -3,7 +3,7 @@ layout: news
 title: Holidaymakers 'can't travel without home comforts' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: New research from the Post Office has highlighted the considerable proportion of UK holidaymakers who embark on trips abroad while packing the many ho
+  description: New research from the Post Office has highlighted the considerable proportion of UK holidaymakers who embark on trips abroad while packing the many home comforts that ensure they can have a taste of the UK wherever they travel to
 categories: ['Other Insurance']
 tags: ['Aug 2014', 'Story', 'News']
 permalink: news/Holidaymakers-can-t-travel-without-home-comforts-.htm

@@ -3,7 +3,7 @@ layout: news
 title: Couples 'argue over driving responsibilities' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Driving responsibilities can be a contentious issue for couples across the UK, with new research revealing the significant number of arguments that th
+  description: Driving responsibilities can be a contentious issue for couples across the UK, with new research revealing the significant number of arguments that this can cause
 categories: ['Other Insurance']
 tags: ['Jul 2014', 'Story', 'News']
 permalink: news/Couples-argue-over-driving-responsibilities-.htm

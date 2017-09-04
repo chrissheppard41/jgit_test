@@ -3,7 +3,7 @@ layout: news
 title: Safer driving could save lives - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Car owners across Northern Ireland should be aware of the dangers of driving at this time of year, with shorter daylight hours, colder temperatures an
+  description: Car owners across Northern Ireland should be aware of the dangers of driving at this time of year, with shorter daylight hours, colder temperatures and plenty of rain likely over the coming months
 categories: ['Other Insurance']
 tags: ['Sep 2013', 'Story', 'News']
 permalink: news/Safer-driving-could-save-lives.htm

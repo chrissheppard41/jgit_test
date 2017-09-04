@@ -3,7 +3,7 @@ layout: news
 title: Parking problems 'causing headaches' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: A significant proportion of people across Northern Ireland and the rest of the UK are fed up with motorists parking inappropriately, a new survey has
+  description: A significant proportion of people across Northern Ireland and the rest of the UK are fed up with motorists parking inappropriately, a new survey has revealed
 categories: ['Other Insurance']
 tags: ['Jan 2014', 'Story', 'News']
 permalink: news/Parking-problems-causing-headaches-.htm

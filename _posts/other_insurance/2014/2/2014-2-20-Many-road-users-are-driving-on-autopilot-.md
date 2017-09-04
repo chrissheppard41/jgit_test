@@ -3,9 +3,7 @@ layout: news
 title: Many road users 'are driving on autopilot' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: A lack of concentration poses a serious risk for a significant proportion of road users across the UK.
-
-Research carried out by Vision Critical on beh
+  description: A lack of concentration poses a serious risk for a significant proportion of road users across the UK
 categories: ['Other Insurance']
 tags: ['Feb 2014', 'Story', 'News']
 permalink: news/Many-road-users-are-driving-on-autopilot-.htm

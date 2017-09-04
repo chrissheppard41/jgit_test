@@ -3,7 +3,7 @@ layout: news
 title: NI drivers 'need to check their vision' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Motorists across North Ireland need to remember the importance of carrying out regular eye examinations in order to ensure their vision is up to scrat
+  description: Motorists across North Ireland need to remember the importance of carrying out regular eye examinations in order to ensure their vision is up to scratch
 categories: ['Other Insurance']
 tags: ['Dec 2013', 'Story', 'News']
 permalink: news/NI-drivers-need-to-check-their-vision-.htm

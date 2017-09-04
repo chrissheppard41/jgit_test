@@ -3,7 +3,7 @@ layout: news
 title: Drivers affected by fake car insurance scam - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: After registering your car, one of the most important things to do is make sure you get your vehicle insured. Once you do so, you&#39;ll be covered fo
+  description: After registering your car, one of the most important things to do is make sure you get your vehicle insured
 categories: ['Other Insurance']
 tags: ['Oct 2014', 'Story', 'News']
 permalink: news/Drivers-affected-by-fake-car-insurance-scam.htm

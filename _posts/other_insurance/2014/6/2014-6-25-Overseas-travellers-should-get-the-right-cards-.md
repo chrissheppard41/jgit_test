@@ -3,7 +3,7 @@ layout: news
 title: Overseas travellers 'should get the right cards' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Anyone planning a holiday abroad needs to understand the importance of taking the right credit cards with them, to avoid excessive costs when making p
+  description: Anyone planning a holiday abroad needs to understand the importance of taking the right credit cards with them, to avoid excessive costs when making payments while outside the UK
 categories: ['Other Insurance']
 tags: ['Jun 2014', 'Story', 'News']
 permalink: news/Overseas-travellers-should-get-the-right-cards-.htm

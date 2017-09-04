@@ -3,9 +3,9 @@ layout: news
 title: Many plan to celebrate New Year at home - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: With Christmas over for another year and 2014 drawing to a close, New Year&#39;s Eve is the next event on the festive calendar.
+  description: 
 
-It&#39;s known that
+With Christmas over for another year and 2014 drawing to a close, New Year&#39;s Eve is the next event on the festive calendar
 categories: ['Other Insurance']
 tags: ['Dec 2015', 'Story', 'News']
 permalink: news/Many-plan-to-celebrate-New-Year-at-home.htm

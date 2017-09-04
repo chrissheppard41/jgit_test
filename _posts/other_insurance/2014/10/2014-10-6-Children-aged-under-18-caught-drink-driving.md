@@ -3,9 +3,7 @@ layout: news
 title: Children aged under-18 caught drink-driving - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Many children as young as 15 are being caught drink-driving in Northern Ireland every year, according to police records.
-
-New Freedom of Information d
+  description: Many children as young as 15 are being caught drink-driving in Northern Ireland every year, according to police records
 categories: ['Other Insurance']
 tags: ['Oct 2014', 'Story', 'News']
 permalink: news/Children-aged-under-18-caught-drink-driving.htm

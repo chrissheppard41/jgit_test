@@ -3,7 +3,7 @@ layout: news
 title: Switching loans 'could help individuals save' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Individuals who take out loans across the UK should be aware of the fact they can shift these borrowings at any time in order to achieve a better rate
+  description: Individuals who take out loans across the UK should be aware of the fact they can shift these borrowings at any time in order to achieve a better rate of interest
 categories: ['Other Insurance']
 tags: ['Jun 2014', 'Story', 'News']
 permalink: news/Switching-loans-could-help-individuals-save-.htm

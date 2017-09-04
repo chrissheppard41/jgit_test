@@ -3,9 +3,7 @@ layout: news
 title: A clean car 'makes owners happy' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: New research commissioned by IMO Car Wash Group has highlighted the satisfaction many motorists derive from having a clean vehicle.
-
-According to a po
+  description: New research commissioned by IMO Car Wash Group has highlighted the satisfaction many motorists derive from having a clean vehicle
 categories: ['Other Insurance']
 tags: ['May 2014', 'Story', 'News']
 permalink: news/A-clean-car-makes-owners-happy-.htm

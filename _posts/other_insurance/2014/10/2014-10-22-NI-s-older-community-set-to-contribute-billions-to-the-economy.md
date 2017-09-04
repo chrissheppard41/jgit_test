@@ -3,7 +3,7 @@ layout: news
 title: NI's older community set to contribute billions to the economy - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Over the next 50 years, people aged over 60 in Northern Ireland (NI) will contribute around &pound;25 billion to the economy through childcare, volunt
+  description: Over the next 50 years, people aged over 60 in Northern Ireland (NI) will contribute around &pound;25 billion to the economy through childcare, volunteering, replacement parenting, caring and working, new research has revealed
 categories: ['Other Insurance']
 tags: ['Oct 2014', 'Story', 'News']
 permalink: news/NI-s-older-community-set-to-contribute-billions-to-the-economy.htm

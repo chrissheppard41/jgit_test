@@ -3,7 +3,7 @@ layout: news
 title: Number of stray dogs in NI has increased, says survey - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: The number of stray and abandoned dogs in Northern Ireland has increased over the past year in comparison to the UK as a whole, according to a recent
+  description: The number of stray and abandoned dogs in Northern Ireland has increased over the past year in comparison to the UK as a whole, according to a recent survey
 categories: ['Other Insurance']
 tags: ['Sep 2014', 'Story', 'News']
 permalink: news/Number-of-stray-dogs-in-NI-has-increased-says-survey.htm

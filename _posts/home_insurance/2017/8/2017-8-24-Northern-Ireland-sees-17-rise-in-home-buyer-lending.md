@@ -3,9 +3,7 @@ layout: news
 title: Northern Ireland sees 17% rise in home buyer lending - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Demand for mortgage products in Northern Ireland soared in the second quarter of this year, new figures from UK Finance have revealed.
-
-The three mont
+  description: Demand for mortgage products in Northern Ireland soared in the second quarter of this year, new figures from UK Finance have revealed
 categories: ['Home Insurance']
 tags: ['Aug 2017', 'Story', 'News']
 permalink: news/Northern-Ireland-sees-17-rise-in-home-buyer-lending.htm

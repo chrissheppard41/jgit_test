@@ -3,7 +3,7 @@ layout: news
 title: How to save money on car insurance - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Car insurance can be a major expense for vehicle owners across Northern Ireland; therefore it is important drivers utilise a number of simple steps th
+  description: Car insurance can be a major expense for vehicle owners across Northern Ireland; therefore it is important drivers utilise a number of simple steps that could see them make considerable savings on their cover
 categories: ['Other Insurance']
 tags: ['Oct 2013', 'Story', 'News']
 permalink: news/How-to-save-money-on-car-insurance.htm

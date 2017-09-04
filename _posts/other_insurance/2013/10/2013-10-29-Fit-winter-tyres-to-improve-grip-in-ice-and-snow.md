@@ -3,7 +3,7 @@ layout: news
 title: Fit winter tyres to improve grip in ice and snow - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Motorists across Northern Ireland should be preparing for the colder months ahead right now and this means ensuring their vehicle is ready for all the
+  description: Motorists across Northern Ireland should be preparing for the colder months ahead right now and this means ensuring their vehicle is ready for all the winter months will have to throw at them
 categories: ['Other Insurance']
 tags: ['Oct 2013', 'Story', 'News']
 permalink: news/Fit-winter-tyres-to-improve-grip-in-ice-and-snow.htm

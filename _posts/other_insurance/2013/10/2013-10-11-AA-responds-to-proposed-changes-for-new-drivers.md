@@ -3,9 +3,7 @@ layout: news
 title: AA responds to proposed changes for new drivers - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: The government has published a range of new proposals aimed at reducing the likelihood of young drivers being involved in accidents.
-
-Young motorists
+  description: The government has published a range of new proposals aimed at reducing the likelihood of young drivers being involved in accidents
 categories: ['Other Insurance']
 tags: ['Oct 2013', 'Story', 'News']
 permalink: news/AA-responds-to-proposed-changes-for-new-drivers.htm

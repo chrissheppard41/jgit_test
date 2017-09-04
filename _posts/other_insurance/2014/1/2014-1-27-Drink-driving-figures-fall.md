@@ -3,7 +3,7 @@ layout: news
 title: Drink-driving figures fall - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: The number of motorists arrested for drink-driving offences over the recent festive season fell in comparison to the same time in 2012, new data from
+  description: The number of motorists arrested for drink-driving offences over the recent festive season fell in comparison to the same time in 2012, new data from the Association of Chief Police Officers (ACPO) has revealed
 categories: ['Other Insurance']
 tags: ['Jan 2014', 'Story', 'News']
 permalink: news/Drink-driving-figures-fall.htm

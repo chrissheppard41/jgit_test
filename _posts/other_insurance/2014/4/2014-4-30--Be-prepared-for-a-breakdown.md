@@ -3,7 +3,7 @@ layout: news
 title: 'Be prepared' for a breakdown - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Motorists across Northern Ireland will be taking to the roads over the coming weeks now the weather has taken a turn for the better and the sun is fin
+  description: Motorists across Northern Ireland will be taking to the roads over the coming weeks now the weather has taken a turn for the better and the sun is finally shining after months of winter and rain
 categories: ['Other Insurance']
 tags: ['Apr 2014', 'Story', 'News']
 permalink: news/-Be-prepared-for-a-breakdown.htm

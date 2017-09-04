@@ -3,9 +3,7 @@ layout: news
 title: Wind energy helping to power Northern Ireland homes and businesses - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: An increasing proportion of Northern Ireland&#39;s (NI) electricity is being generated through wind power, it has been reported.,
-
-According to the No
+  description: An increasing proportion of Northern Ireland&#39;s (NI) electricity is being generated through wind power, it has been reported
 categories: ['Other Insurance']
 tags: ['Feb 2015', 'Story', 'News']
 permalink: news/Wind-energy-helping-to-power-Northern-Ireland-homes-and-businesses.htm

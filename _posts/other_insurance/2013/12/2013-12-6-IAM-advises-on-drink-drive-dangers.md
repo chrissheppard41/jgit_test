@@ -3,7 +3,7 @@ layout: news
 title: IAM advises on drink-drive dangers - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Individuals across Northern Ireland will be getting ready to embrace the festive season in the coming weeks, but drivers have been urged to remember t
+  description: Individuals across Northern Ireland will be getting ready to embrace the festive season in the coming weeks, but drivers have been urged to remember the dangers of having a drink before getting behind the wheel of a vehicle
 categories: ['Other Insurance']
 tags: ['Dec 2013', 'Story', 'News']
 permalink: news/IAM-advises-on-drink-drive-dangers.htm

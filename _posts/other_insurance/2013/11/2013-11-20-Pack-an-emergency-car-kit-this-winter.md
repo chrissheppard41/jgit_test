@@ -3,9 +3,7 @@ layout: news
 title: Pack an emergency car kit this winter - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Motorists across Northern Ireland need to be prepared for whatever the winter has to throw at them.
-
-Therefore, packing a number of essential items in
+  description: Motorists across Northern Ireland need to be prepared for whatever the winter has to throw at them
 categories: ['Other Insurance']
 tags: ['Nov 2013', 'Story', 'News']
 permalink: news/Pack-an-emergency-car-kit-this-winter.htm

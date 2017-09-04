@@ -3,7 +3,7 @@ layout: news
 title: Bank holiday DIY blunders to avoid - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: With a long weekend comes the temptation for many homeowners to break out the paint brushes and spirit level and embark on a range of DIY projects aro
+  description: With a long weekend comes the temptation for many homeowners to break out the paint brushes and spirit level and embark on a range of DIY projects around their property
 categories: ['Other Insurance']
 tags: ['Aug 2014', 'Story', 'News']
 permalink: news/Bank-holiday-DIY-blunders-to-avoid.htm

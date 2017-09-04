@@ -3,9 +3,7 @@ layout: news
 title: Northern Ireland 'has biggest reliance on pre-paid meters in UK' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: People in Northern Ireland are more reliant on pre-paid meters than those in other parts of the UK, a new survey has revealed.
-
-According to the Debt
+  description: People in Northern Ireland are more reliant on pre-paid meters than those in other parts of the UK, a new survey has revealed
 categories: ['Other Insurance']
 tags: ['May 2015', 'Story', 'News']
 permalink: news/Northern-Ireland-has-biggest-reliance-on-pre-paid-meters-in-UK-.htm

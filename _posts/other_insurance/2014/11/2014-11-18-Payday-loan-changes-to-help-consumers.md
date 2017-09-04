@@ -3,9 +3,7 @@ layout: news
 title: Payday loan changes to help consumers - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: New rules are set to make lending fairer for those who take out so-called payday loans.
-
-The Financial Conduct Authority (FCA) has announced regulatio
+  description: New rules are set to make lending fairer for those who take out so-called payday loans
 categories: ['Other Insurance']
 tags: ['Nov 2014', 'Story', 'News']
 permalink: news/Payday-loan-changes-to-help-consumers.htm

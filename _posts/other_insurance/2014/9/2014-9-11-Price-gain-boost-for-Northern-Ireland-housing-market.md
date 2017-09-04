@@ -3,7 +3,7 @@ layout: news
 title: Price gain boost for Northern Ireland housing market - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Northern Ireland&#39;s housing market continues to show signs of recovery, as its price gains have reached a record high in the UK, latest research ha
+  description: Northern Ireland&#39;s housing market continues to show signs of recovery, as its price gains have reached a record high in the UK, latest research has shown
 categories: ['Other Insurance']
 tags: ['Sep 2014', 'Story', 'News']
 permalink: news/Price-gain-boost-for-Northern-Ireland-housing-market.htm

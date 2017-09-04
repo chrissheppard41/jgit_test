@@ -3,7 +3,7 @@ layout: news
 title: Northern Ireland to clamp down on bus safety - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Following a recent road collision between a school bus carrying 45 children and a car in County Tyrone, it has been announced that one in four buses i
+  description: Following a recent road collision between a school bus carrying 45 children and a car in County Tyrone, it has been announced that one in four buses in Northern Ireland are deemed unroadworthy or not in compliance with licensing regulations
 categories: ['Other Insurance']
 tags: ['Sep 2014', 'Story', 'News']
 permalink: news/Northern-Ireland-to-clamp-down-on-bus-safety.htm

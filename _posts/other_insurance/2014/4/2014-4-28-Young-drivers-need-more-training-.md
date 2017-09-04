@@ -3,7 +3,7 @@ layout: news
 title: Young drivers 'need more training' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: A significant proportion of young motorists are demonstrating a sense of overconfidence in their abilities, a situation which could exacerbate issues
+  description: A significant proportion of young motorists are demonstrating a sense of overconfidence in their abilities, a situation which could exacerbate issues surrounding the safety of this group when taking to the roads
 categories: ['Other Insurance']
 tags: ['Apr 2014', 'Story', 'News']
 permalink: news/Young-drivers-need-more-training-.htm

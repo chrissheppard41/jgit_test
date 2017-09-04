@@ -3,9 +3,7 @@ layout: news
 title: Northern Ireland flooding continues to take its toll - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Last week&#39;s flooding in Northern Ireland is continuing to have an impact, as damage caused by the storms has gone on causing problems.
-
-The worst
+  description: Last week&#39;s flooding in Northern Ireland is continuing to have an impact, as damage caused by the storms has gone on causing problems
 categories: ['Home Insurance']
 tags: ['Aug 2017', 'Story', 'News']
 permalink: news/Northern-Ireland-flooding-continues-to-take-its-toll.htm

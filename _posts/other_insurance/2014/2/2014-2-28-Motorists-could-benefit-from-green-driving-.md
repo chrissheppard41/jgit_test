@@ -3,7 +3,7 @@ layout: news
 title: Motorists 'could benefit from green driving' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Road users across Northern Ireland continue to face high costs for fuel, but what many people might not be aware of is the fact there are some simple
+  description: Road users across Northern Ireland continue to face high costs for fuel, but what many people might not be aware of is the fact there are some simple techniques individuals can employ to boost their efficiency and reduce fuel consumption
 categories: ['Other Insurance']
 tags: ['Feb 2014', 'Story', 'News']
 permalink: news/Motorists-could-benefit-from-green-driving-.htm

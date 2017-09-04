@@ -3,7 +3,7 @@ layout: news
 title: Tyre safety tips for caravanners - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Thousands of caravan enthusiasts will be taking to the roads over the coming months as they look to make the best of the fleeting British summer, but
+  description: Thousands of caravan enthusiasts will be taking to the roads over the coming months as they look to make the best of the fleeting British summer, but before they do, Micheldever Tyres has urged this group to pay close attention to the state of their tyres
 categories: ['Other Insurance']
 tags: ['Jul 2014', 'Story', 'News']
 permalink: news/Tyre-safety-tips-for-caravanners.htm

@@ -3,9 +3,7 @@ layout: news
 title: Too many air pollution deaths in Northern Ireland, warns doctor - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Urgent action is needed to reduce the number of deaths caused by air pollution in Northern Ireland, a medical expert has claimed.
-
-Dr Gary McFarlane,
+  description: Urgent action is needed to reduce the number of deaths caused by air pollution in Northern Ireland, a medical expert has claimed
 categories: ['Other Insurance']
 tags: ['Feb 2015', 'Story', 'News']
 permalink: news/Too-many-air-pollution-deaths-in-Northern-Ireland-warns-doctor.htm

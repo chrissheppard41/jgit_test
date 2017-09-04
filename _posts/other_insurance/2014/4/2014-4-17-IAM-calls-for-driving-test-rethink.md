@@ -3,7 +3,7 @@ layout: news
 title: IAM calls for driving test rethink - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: The Institute of Advanced Motorists (IAM) is calling on the government to examine the existing driving test in order to give a greater focus on safety
+  description: The Institute of Advanced Motorists (IAM) is calling on the government to examine the existing driving test in order to give a greater focus on safety for newly qualified drivers
 categories: ['Other Insurance']
 tags: ['Apr 2014', 'Story', 'News']
 permalink: news/IAM-calls-for-driving-test-rethink.htm

@@ -3,9 +3,7 @@ layout: news
 title: People stash cash in jam jars to budget - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Nearly one-fifth of respondents to a survey admitted to stashing money for bills at home, rather than using a bank account.
-
-With interest rates low,
+  description: Nearly one-fifth of respondents to a survey admitted to stashing money for bills at home, rather than using a bank account
 categories: ['Other Insurance']
 tags: ['Nov 2014', 'Story', 'News']
 permalink: news/People-stash-cash-in-jam-jars-to-budget.htm

@@ -3,7 +3,7 @@ layout: news
 title: Wrap up warm when riding this winter - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Motorcycle enthusiasts across Northern Ireland need to be ready to face the rigours of winter, with colder temperatures set to take hold across many p
+  description: Motorcycle enthusiasts across Northern Ireland need to be ready to face the rigours of winter, with colder temperatures set to take hold across many parts of the country over the coming months
 categories: ['Other Insurance']
 tags: ['Nov 2013', 'Story', 'News']
 permalink: news/Wrap-up-warm-when-riding-this-winter.htm

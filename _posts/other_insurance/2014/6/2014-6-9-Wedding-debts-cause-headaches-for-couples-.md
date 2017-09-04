@@ -3,7 +3,7 @@ layout: news
 title: Wedding debts 'cause headaches for couples' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: New figures from the Debt Advisory Centre (DAC) have highlighted the significant number of newlyweds who regret taking out large borrowings to fund th
+  description: New figures from the Debt Advisory Centre (DAC) have highlighted the significant number of newlyweds who regret taking out large borrowings to fund their big day
 categories: ['Other Insurance']
 tags: ['Jun 2014', 'Story', 'News']
 permalink: news/Wedding-debts-cause-headaches-for-couples-.htm

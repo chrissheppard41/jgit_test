@@ -3,7 +3,7 @@ layout: news
 title: Homeowners 'failing to safeguard valuables' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: The results of a recent survey may well encourage homeowners in Northern Ireland - and all over the UK for that matter - to take better care of their
+  description: The results of a recent survey may well encourage homeowners in Northern Ireland - and all over the UK for that matter - to take better care of their personal valuables
 categories: ['Other Insurance']
 tags: ['May 2014', 'Story', 'News']
 permalink: news/Homeowners-failing-to-safeguard-valuables-.htm

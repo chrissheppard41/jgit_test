@@ -3,7 +3,7 @@ layout: news
 title: Winter tyres 'can help in cold weather' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Motorists across Northern Ireland need to be prepared for all the colder months ahead will have to throw at them and for this reason drivers are being
+  description: Motorists across Northern Ireland need to be prepared for all the colder months ahead will have to throw at them and for this reason drivers are being advised to invest in installing winter tyres for their vehicle
 categories: ['Other Insurance']
 tags: ['Dec 2013', 'Story', 'News']
 permalink: news/Winter-tyres-can-help-in-cold-weather-.htm

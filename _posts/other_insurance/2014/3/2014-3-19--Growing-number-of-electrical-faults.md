@@ -3,7 +3,7 @@ layout: news
 title: 'Growing number' of electrical faults - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Car owners across Northern Ireland need to be aware of the growing complexity of their vehicles, as an increasing number of electrical faults have bee
+  description: Car owners across Northern Ireland need to be aware of the growing complexity of their vehicles, as an increasing number of electrical faults have been recorded over recent years
 categories: ['Other Insurance']
 tags: ['Mar 2014', 'Story', 'News']
 permalink: news/-Growing-number-of-electrical-faults.htm

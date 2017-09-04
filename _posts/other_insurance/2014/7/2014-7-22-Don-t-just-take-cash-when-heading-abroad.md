@@ -3,7 +3,7 @@ layout: news
 title: Don't just take cash when heading abroad - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Summer is here and that means just one thing, millions of people will be heading off on holidays overseas in the coming weeks, but people planning a g
+  description: Summer is here and that means just one thing, millions of people will be heading off on holidays overseas in the coming weeks, but people planning a getaway need to remember to manage their money carefully when they reach their destination
 categories: ['Other Insurance']
 tags: ['Jul 2014', 'Story', 'News']
 permalink: news/Don-t-just-take-cash-when-heading-abroad.htm

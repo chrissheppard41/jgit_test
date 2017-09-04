@@ -3,9 +3,7 @@ layout: news
 title: Faster house prices rises expected in Northern Ireland in 2015 - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: House prices are expected to rise faster in Northern Ireland than the UK average during 2015.
-
-The Royal Institution of Chartered Surveyors (Rics) has
+  description: House prices are expected to rise faster in Northern Ireland than the UK average during 2015
 categories: ['Other Insurance']
 tags: ['Feb 2015', 'Story', 'News']
 permalink: news/Faster-house-prices-rises-expected-in-Northern-Ireland-in-2015.htm

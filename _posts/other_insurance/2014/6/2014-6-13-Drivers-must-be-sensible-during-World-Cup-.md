@@ -3,7 +3,7 @@ layout: news
 title: Drivers 'must be sensible during World Cup' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: The World Cup is here and that means people across Northern Ireland will be getting into the party mood over the coming weeks, but one issue they shou
+  description: The World Cup is here and that means people across Northern Ireland will be getting into the party mood over the coming weeks, but one issue they should continue to take seriously is that of drinking and driving
 categories: ['Other Insurance']
 tags: ['Jun 2014', 'Story', 'News']
 permalink: news/Drivers-must-be-sensible-during-World-Cup-.htm

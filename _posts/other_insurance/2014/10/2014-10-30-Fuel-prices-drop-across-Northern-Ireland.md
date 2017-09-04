@@ -3,9 +3,7 @@ layout: news
 title: Fuel prices drop across Northern Ireland - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: The cost of fuel at supermarket forecourts in Northern Ireland has plummeted to a three-year low, a new report has revealed.
-
-The AA&#39;s latest data
+  description: The cost of fuel at supermarket forecourts in Northern Ireland has plummeted to a three-year low, a new report has revealed
 categories: ['Other Insurance']
 tags: ['Oct 2014', 'Story', 'News']
 permalink: news/Fuel-prices-drop-across-Northern-Ireland.htm

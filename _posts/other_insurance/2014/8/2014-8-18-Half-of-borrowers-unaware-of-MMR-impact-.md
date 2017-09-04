@@ -3,7 +3,7 @@ layout: news
 title: Half of borrowers 'unaware of MMR impact' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: The Mortgage Market Review (MMR) has had a significant impact upon the UK&#39;s mortgage sector over recent months, but more than half of all borrower
+  description: The Mortgage Market Review (MMR) has had a significant impact upon the UK&#39;s mortgage sector over recent months, but more than half of all borrowers remain unaware of the important new measures the initiative has put in place
 categories: ['Other Insurance']
 tags: ['Aug 2014', 'Story', 'News']
 permalink: news/Half-of-borrowers-unaware-of-MMR-impact-.htm

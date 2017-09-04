@@ -3,7 +3,7 @@ layout: news
 title: Young and inexperienced drivers 'at risk from distractions' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Young motorists who have only just passed their driving test are in the most danger if they encounter distractions on the road, according to a new stu
+  description: Young motorists who have only just passed their driving test are in the most danger if they encounter distractions on the road, according to a new study
 categories: ['Other Insurance']
 tags: ['Mar 2015', 'Story', 'News']
 permalink: news/Young-and-inexperienced-drivers-at-risk-from-distractions-.htm

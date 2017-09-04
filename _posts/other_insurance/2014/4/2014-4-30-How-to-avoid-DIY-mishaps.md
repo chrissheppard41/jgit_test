@@ -3,9 +3,7 @@ layout: news
 title: How to avoid DIY mishaps - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Bank holidays represent an excellent time to carry out home improvements, as people do not have to squeeze all of the work into a two-day weekend.
-
-Ho
+  description: Bank holidays represent an excellent time to carry out home improvements, as people do not have to squeeze all of the work into a two-day weekend
 categories: ['Other Insurance']
 tags: ['Apr 2014', 'Story', 'News']
 permalink: news/How-to-avoid-DIY-mishaps.htm

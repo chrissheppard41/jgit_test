@@ -3,7 +3,7 @@ layout: news
 title: DIY damage costs Brits £3bn a year - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Property owners across the UK are shelling out the equivalent of &pound;3 billion a year to repair damage caused to their home through their over-enth
+  description: Property owners across the UK are shelling out the equivalent of &pound;3 billion a year to repair damage caused to their home through their over-enthusiastic DIY attempts
 categories: ['Other Insurance']
 tags: ['Feb 2014', 'Story', 'News']
 permalink: news/DIY-damage-costs-Brits-3bn-a-year.htm

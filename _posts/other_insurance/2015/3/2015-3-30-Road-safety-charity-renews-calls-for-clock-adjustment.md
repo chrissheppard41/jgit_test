@@ -3,9 +3,7 @@ layout: news
 title: Road safety charity renews calls for clock adjustment - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: The government is facing renewed pressure to adjust the UK&#39;s clocks in order to reduce the number of road accidents.
-
-According to road safety cha
+  description: The government is facing renewed pressure to adjust the UK&#39;s clocks in order to reduce the number of road accidents
 categories: ['Other Insurance']
 tags: ['Mar 2015', 'Story', 'News']
 permalink: news/Road-safety-charity-renews-calls-for-clock-adjustment.htm

@@ -3,9 +3,7 @@ layout: news
 title: Drink-drive message 'still not being heard' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: A significant proportion of British motorists are continuing to fail to heed warnings when it comes to the dangers of drinking and driving.
-
-According
+  description: A significant proportion of British motorists are continuing to fail to heed warnings when it comes to the dangers of drinking and driving
 categories: ['Other Insurance']
 tags: ['Jul 2014', 'Story', 'News']
 permalink: news/Drink-drive-message-still-not-being-heard-.htm

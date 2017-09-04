@@ -3,7 +3,7 @@ layout: news
 title: Many households underestimate bills - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Households across the UK could be facing a more difficult financial future as a result of a lack of attention when it comes to the costs of monthly bi
+  description: Households across the UK could be facing a more difficult financial future as a result of a lack of attention when it comes to the costs of monthly bills
 categories: ['Other Insurance']
 tags: ['Nov 2014', 'Story', 'News']
 permalink: news/Many-households-underestimate-bills.htm
