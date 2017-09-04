@@ -3,7 +3,7 @@ layout: news
 title: Number of drink-drive-related fatalities drops - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The number of fatalities linked to drink-driving fell in 2015, new figures have revealed
 categories: ['Car Insurance']
 tags: ['Aug 2017', 'Story', 'News']
 permalink: news/Number-of-drink-drive-related-fatalities-drops.htm

@@ -3,7 +3,7 @@ layout: news
 title: New laws on driving while on phone 'to catch many motorists out' - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: There is widespread ignorance of the tighter laws coming into effect on the use of mobile phones in cars tomorrow (March 1st), a new survey has revealed
 categories: ['Car Insurance UK']
 tags: ['Feb 2017', 'Story', 'News']
 permalink: news/New-laws-on-driving-while-on-phone-to-catch-many-motorists-out-.htm

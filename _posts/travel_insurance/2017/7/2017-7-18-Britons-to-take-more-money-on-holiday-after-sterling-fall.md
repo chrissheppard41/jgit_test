@@ -3,7 +3,7 @@ layout: news
 title: Britons to take more money on holiday after sterling fall - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The fall in the value of sterling means Britons are compensating by taking an extra &pound;836 million in spending money on overseas holidays this summer, the equivalent of &pound;34 per person
 categories: ['Travel Insurance']
 tags: ['Jul 2017', 'Story', 'News']
 permalink: news/Britons-to-take-more-money-on-holiday-after-sterling-fall.htm

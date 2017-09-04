@@ -3,7 +3,7 @@ layout: news
 title: Influential MP urges energy customers to switch - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Consumers unhappy with recent rises in energy bills may be keen to look around for a better deal - and they have been encouraged to do so by an influential MP
 categories: ['Utilities']
 tags: ['Mar 2017', 'Story', 'News']
 permalink: news/Influential-MP-urges-energy-customers-to-switch.htm

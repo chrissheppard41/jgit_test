@@ -3,7 +3,7 @@ layout: news
 title: Homes near supermarkets 'carry price premium'   - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Homes located close to supermarkets command a higher price than those that aren&#39;t, according to a new study by Lloyds Bank
 categories: ['Mortgages']
 tags: ['May 2017', 'Story', 'News']
 permalink: news/Homes-near-supermarkets-carry-price-premium-.htm

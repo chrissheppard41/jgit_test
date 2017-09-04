@@ -3,7 +3,7 @@ layout: news
 title: Britons most likely to claim on travel insurance after Spanish holiday - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: It seems pain in Spain is the most likely cause of Britons making a claim on their travel insurance
 categories: ['Travel Insurance']
 tags: ['Apr 2017', 'Story', 'News']
 permalink: news/Britons-most-likely-to-claim-on-travel-insurance-after-Spanish-holiday.htm

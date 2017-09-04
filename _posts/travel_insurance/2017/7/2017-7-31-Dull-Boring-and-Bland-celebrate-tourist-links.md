@@ -3,7 +3,7 @@ layout: news
 title: Dull, Boring and Bland celebrate tourist links  - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: If Dull, Boring and Bland sounds like a bad online review, people should think again, as a trio of locations bearing these names have been celebrating their links and jointly promoting their tourism potential
 categories: ['Travel Insurance']
 tags: ['Jul 2017', 'Story', 'News']
 permalink: news/Dull-Boring-and-Bland-celebrate-tourist-links.htm

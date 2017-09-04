@@ -3,7 +3,7 @@ layout: news
 title: Help to buy scheme users pass million mark - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Over one million people have now taken advantage of at least one element of the government&#39;s help-to-buy scheme, official figures have revealed
 categories: ['Mortgages']
 tags: ['Mar 2017', 'Story', 'News']
 permalink: news/Help-to-buy-scheme-users-pass-million-mark.htm

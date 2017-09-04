@@ -3,7 +3,7 @@ layout: news
 title: Ideal homes 'have two bathrooms to every three bedrooms' - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The ideal home should have a ratio of two bathrooms to every three bedrooms, according to a survey by Direct Line Home Insurance
 categories: ['Home Insurance UK']
 tags: ['May 2017', 'Story', 'News']
 permalink: news/Ideal-homes-have-two-bathrooms-to-every-three-bedrooms-.htm

@@ -3,7 +3,7 @@ layout: news
 title: Flat prices more than double in eight years   - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The cost of buying a flat in the UK has nearly doubled in the last eight years, new research has found
 categories: ['Home Insurance UK']
 tags: ['May 2017', 'Story', 'News']
 permalink: news/Flat-prices-more-than-double-in-eight-years.htm

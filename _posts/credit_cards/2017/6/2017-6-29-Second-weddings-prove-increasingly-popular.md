@@ -3,7 +3,7 @@ layout: news
 title: Second 'weddings' prove increasingly popular   - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Britons are increasingly choosing to renew their wedding vows - and that can mean a lot of money being borrowed to pay for it
 categories: ['Credit Cards']
 tags: ['Jun 2017', 'Story', 'News']
 permalink: news/Second-weddings-prove-increasingly-popular.htm

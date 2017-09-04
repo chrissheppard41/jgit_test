@@ -3,7 +3,7 @@ layout: news
 title: Home renovations without permission 'can invalidate home insurance' - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: People looking for a good home insurance policy may want to carefully check the various details, but some things will be common to all of them
 categories: ['Home Insurance UK']
 tags: ['Apr 2017', 'Story', 'News']
 permalink: news/Home-renovations-without-permission-can-invalidate-home-insurance-.htm

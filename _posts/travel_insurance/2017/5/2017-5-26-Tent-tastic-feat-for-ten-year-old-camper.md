@@ -3,7 +3,7 @@ layout: news
 title: Tent-tastic feat for ten year old camper - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: With the weather hotting up and the days now long and sunny, many people will be thinking of their summer holidays and the possibility of enjoying some fresh air by going camping, whether in the UK or overseas
 categories: ['Travel Insurance']
 tags: ['May 2017', 'Story', 'News']
 permalink: news/Tent-tastic-feat-for-ten-year-old-camper.htm

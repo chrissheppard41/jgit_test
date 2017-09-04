@@ -3,7 +3,7 @@ layout: news
 title: Cardiff unveils cycling ambition - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The genteel and historic cities of Oxford and Cambridge are known for being major cycling cities, due to their flat topography and the usefulness of such transport in road networks established long before the motor car
 categories: ['Bike Insurance']
 tags: ['Feb 2017', 'Story', 'News']
 permalink: news/Cardiff-unveils-cycling-ambition.htm

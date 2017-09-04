@@ -3,7 +3,7 @@ layout: news
 title: First-time buyers 'driving mortgage market' - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: First-time buyers are the driving force behind the steady rate of mortgage lending, according to the Council of Mortgage Lenders (CML)
 categories: ['Mortgages']
 tags: ['Mar 2017', 'Story', 'News']
 permalink: news/First-time-buyers-driving-mortgage-market-.htm

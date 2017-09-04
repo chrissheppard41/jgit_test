@@ -3,7 +3,7 @@ layout: news
 title: Ashes series set to go ahead as pay dispute resolution efforts grow - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Thousands of British people will have planned trips to Australia this winter to watch the England cricket team in the Ashes - and fears that the whole event may be cancelled may soon be at an end
 categories: ['Travel Insurance']
 tags: ['Jul 2017', 'Story', 'News']
 permalink: news/Ashes-series-set-to-go-ahead-as-pay-dispute-resolution-efforts-grow.htm

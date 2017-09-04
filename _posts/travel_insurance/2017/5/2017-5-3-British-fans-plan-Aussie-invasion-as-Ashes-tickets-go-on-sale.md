@@ -3,7 +3,7 @@ layout: news
 title: British fans plan Aussie invasion as Ashes tickets go on sale - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Millions of Britons are planning their summer holidays, but for thousands of cricket lovers the big trip away this year will come in the winter
 categories: ['Travel Insurance']
 tags: ['May 2017', 'Story', 'News']
 permalink: news/British-fans-plan-Aussie-invasion-as-Ashes-tickets-go-on-sale.htm

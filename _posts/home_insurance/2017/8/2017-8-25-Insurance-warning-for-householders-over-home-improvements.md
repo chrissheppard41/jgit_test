@@ -3,7 +3,7 @@ layout: news
 title: Insurance warning for householders over home improvements - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Millions of Britons have had home improvements carried out over the last few years, but those having such work done have been warned to be aware of the potential home insurance pitfalls
 categories: ['Home Insurance']
 tags: ['Aug 2017', 'Story', 'News']
 permalink: news/Insurance-warning-for-householders-over-home-improvements.htm

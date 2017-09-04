@@ -3,7 +3,7 @@ layout: news
 title: House price growth falls again - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The annual rate of house price growth has fallen again, providing new reasons to believe the time is right for those looking to purchase a house to seek the best mortgage deals
 categories: ['Mortgages']
 tags: ['Apr 2017', 'Story', 'News']
 permalink: news/House-price-growth-falls-again.htm

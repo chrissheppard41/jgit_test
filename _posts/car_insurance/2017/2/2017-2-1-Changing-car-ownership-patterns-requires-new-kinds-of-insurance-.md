@@ -3,7 +3,7 @@ layout: news
 title: Changing car ownership patterns 'requires new kinds of insurance' - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The old forms of car insurance that linked vehicles and their owners in a simple fashion are increasingly irrelevant, according to Admiral Insurance
 categories: ['Car Insurance UK']
 tags: ['Feb 2017', 'Story', 'News']
 permalink: news/Changing-car-ownership-patterns-requires-new-kinds-of-insurance-.htm

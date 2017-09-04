@@ -3,7 +3,7 @@ layout: news
 title: Tasmania shows off southern lights - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Keen sky-watchers who want to see the Northern Lights (Aurora Borealis) might want to head off on holiday to Scandinavia for much of the year, but at this time of year there is no chance of witnessing the phenomenon
 categories: ['Travel Insurance']
 tags: ['Jun 2017', 'Story', 'News']
 permalink: news/Tasmania-shows-off-southern-lights.htm

@@ -3,7 +3,7 @@ layout: news
 title: Sierra Leone tops travel growth list - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Britons who fancy going somewhere unusual on a foreign holiday might find they are in good company if they pick the West African country of Sierra Leone
 categories: ['Travel Insurance']
 tags: ['Jun 2017', 'Story', 'News']
 permalink: news/Sierra-Leone-tops-travel-growth-list.htm

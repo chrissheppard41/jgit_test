@@ -3,7 +3,7 @@ layout: news
 title: First-time buyer numbers continue rising - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The number of first-time buyers has continued to increase and should carry on doing so in the months ahead, the Council of Mortgage Lenders (CML) has said
 categories: ['Mortgages']
 tags: ['Jun 2017', 'Story', 'News']
 permalink: news/First-time-buyer-numbers-continue-rising.htm

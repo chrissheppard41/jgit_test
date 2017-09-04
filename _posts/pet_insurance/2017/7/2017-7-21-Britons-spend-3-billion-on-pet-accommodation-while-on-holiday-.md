@@ -3,7 +3,7 @@ layout: news
 title: Britons 'spend £3 billion on pet accommodation while on holiday' - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Britons spend &pound;3 a billion a year on accommodation for their pets while they are on holiday, a new study by insurance provider Direct Line has found
 categories: ['Pet Insurance']
 tags: ['Jul 2017', 'Story', 'News']
 permalink: news/Britons-spend-3-billion-on-pet-accommodation-while-on-holiday-.htm

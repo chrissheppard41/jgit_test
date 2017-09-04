@@ -3,7 +3,7 @@ layout: news
 title: Change of clocks 'increases burglaries'   - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The number of &#39;opportunistic burglaries&#39; - cases where homes are robbed without a forced entry being required - rise by a quarter when the clocks go forward, Co-op Insurance has warned
 categories: ['Home Insurance UK']
 tags: ['Mar 2017', 'Story', 'News']
 permalink: news/Change-of-clocks-increases-burglaries-.htm

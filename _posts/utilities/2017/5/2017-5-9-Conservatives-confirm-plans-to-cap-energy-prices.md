@@ -3,7 +3,7 @@ layout: news
 title: Conservatives confirm plans to cap energy prices - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The Conservative Party has confirmed plans to cap energy prices if the party wins the general election
 categories: ['Utilities']
 tags: ['May 2017', 'Story', 'News']
 permalink: news/Conservatives-confirm-plans-to-cap-energy-prices.htm

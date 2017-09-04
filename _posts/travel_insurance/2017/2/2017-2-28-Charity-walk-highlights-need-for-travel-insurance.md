@@ -3,7 +3,7 @@ layout: news
 title: Charity walk highlights need for travel insurance - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The need to take out travel insurance in the UK may be overlooked by some, but it can be very important for dealing with claims arising out of accidents undertaken during dangerous activities
 categories: ['Travel Insurance UK']
 tags: ['Feb 2017', 'Story', 'News']
 permalink: news/Charity-walk-highlights-need-for-travel-insurance.htm

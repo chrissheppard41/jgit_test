@@ -3,7 +3,7 @@ layout: news
 title: Tories promise more electric cars and vans - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The Conservative party manifesto has pledged to increase investment in the development of electric cars and vans
 categories: ['Car Insurance UK']
 tags: ['May 2017', 'Story', 'News']
 permalink: news/Tories-promise-more-electric-cars-and-vans.htm

@@ -3,7 +3,7 @@ layout: news
 title: Bike theft soars in Cardiff - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Cardiff has big ambitions to become one of Britain&#39;s leading cycling cities, but those who take to two wheels in the Welsh capital may be very wise to get their bike insured
 categories: ['Bike Insurance']
 tags: ['Jun 2017', 'Story', 'News']
 permalink: news/Bike-theft-soars-in-Cardiff.htm

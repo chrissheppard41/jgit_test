@@ -3,7 +3,7 @@ layout: news
 title: Drivers' lax attitudes to phone use revealed - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Despite the recent increase in penalties for using a mobile phone while driving, motorists appear to remain largely unconcerned about the dangers of being on a call when behind the wheel
 categories: ['Car Insurance UK']
 tags: ['Mar 2017', 'Story', 'News']
 permalink: news/Drivers-lax-attitudes-to-phone-use-revealed.htm

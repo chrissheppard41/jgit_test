@@ -3,7 +3,7 @@ layout: news
 title: Surge in Australia bookings expected after Ashes threat ends  - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The number of Britons booking trips to Australia later this year is expected to leap following news that the most compelling reason to spend the winter down under is no longer under threat
 categories: ['Travel Insurance']
 tags: ['Aug 2017', 'Story', 'News']
 permalink: news/Surge-in-Australia-bookings-expected-after-Ashes-threat-ends.htm

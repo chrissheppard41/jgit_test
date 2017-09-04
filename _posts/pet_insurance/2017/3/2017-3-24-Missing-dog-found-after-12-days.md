@@ -3,7 +3,7 @@ layout: news
 title: Missing dog found after 12 days - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: There are few bigger nightmares for pet owners than for their beloved animals to go missing, but one such tale in the Scottish Highlands has had a happy ending
 categories: ['Pet Insurance']
 tags: ['Mar 2017', 'Story', 'News']
 permalink: news/Missing-dog-found-after-12-days.htm

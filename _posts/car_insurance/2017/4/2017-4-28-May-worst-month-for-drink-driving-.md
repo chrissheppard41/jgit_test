@@ -3,7 +3,7 @@ layout: news
 title: May 'worst month for drink-driving' - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Nothing can push up the cost of car insurance more than having an accident and losing a no-claims bonus, but that is the threat faced by motorists from drink-drivers more in May than any other time of the year
 categories: ['Car Insurance UK']
 tags: ['Apr 2017', 'Story', 'News']
 permalink: news/May-worst-month-for-drink-driving-.htm

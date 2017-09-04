@@ -3,7 +3,7 @@ layout: news
 title: House prices 'rising most where unemployment has fallen fastest' - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: There has been a clear link between the rise in house prices and the fall in unemployment as the economy has recovered, a new analysis by Lloyds Bank has revealed
 categories: ['Mortgages']
 tags: ['Mar 2017', 'Story', 'News']
 permalink: news/House-prices-rising-most-where-unemployment-has-fallen-fastest-.htm

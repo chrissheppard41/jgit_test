@@ -3,7 +3,7 @@ layout: news
 title: Least expensive parts of London see higher house price growth  - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Londoners seeking a good mortgage deal will want to get the most affordable home they can, but new data has shown that task has been made harder by higher price rises in the more affordable parts of the capital
 categories: ['Mortgages']
 tags: ['Feb 2017', 'Story', 'News']
 permalink: news/Least-expensive-parts-of-London-see-higher-house-price-growth.htm

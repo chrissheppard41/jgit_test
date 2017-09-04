@@ -3,7 +3,7 @@ layout: news
 title: Garden sheds burgled 'every 43 seconds' - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The average garden shed has about &pound;2,000 worth of contents, making it a target for burglars, a new survey has found
 categories: ['Home Insurance']
 tags: ['Aug 2017', 'Story', 'News']
 permalink: news/Garden-sheds-burgled-every-43-seconds-.htm

@@ -3,7 +3,7 @@ layout: news
 title: Pets get £27 million spent on them for Valentine's Day - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Valentine&#39;s Day is meant to be an occasion when people shower gifts and affection on those they love the most, and this is certainly true for one group - pet owners
 categories: ['Pet Insurance']
 tags: ['Feb 2017', 'Story', 'News']
 permalink: news/Pets-get-27-million-spent-on-them-for-Valentine-s-Day.htm

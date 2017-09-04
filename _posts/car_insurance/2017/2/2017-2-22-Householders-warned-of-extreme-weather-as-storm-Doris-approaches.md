@@ -3,7 +3,7 @@ layout: news
 title: Householders warned of extreme weather as storm Doris approaches - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: AA Insurance has warned that a large number of home insurance claims could be about to arise as a result of Storm Doris, which is set to hit Britain tomorrow (February 23rd)
 categories: ['Car Insurance UK']
 tags: ['Feb 2017', 'Story', 'News']
 permalink: news/Householders-warned-of-extreme-weather-as-storm-Doris-approaches.htm

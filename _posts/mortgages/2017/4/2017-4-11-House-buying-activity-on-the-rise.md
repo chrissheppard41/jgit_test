@@ -3,7 +3,7 @@ layout: news
 title: House buying activity on the rise - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The number of house purchases rose by seven per cent in February compared with January, new figures published by the Council of Mortgage Lenders have indicated
 categories: ['Mortgages']
 tags: ['Apr 2017', 'Story', 'News']
 permalink: news/House-buying-activity-on-the-rise.htm

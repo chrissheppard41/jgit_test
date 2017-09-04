@@ -3,7 +3,7 @@ layout: news
 title: Burgled homes 'among most likely to be raided again' - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Homes that have been burgled face a high probability of being broken into a second time, or even a third, new research has shown
 categories: ['Home Insurance UK']
 tags: ['Feb 2017', 'Story', 'News']
 permalink: news/Burgled-homes-among-most-likely-to-be-raided-again-.htm

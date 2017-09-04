@@ -3,7 +3,7 @@ layout: news
 title: Bank of Mum and Dad plays bigger role in first-time buying - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The importance of the &#39;Bank of Mum and Dad&#39; in helping children take their first steps on the housing ladder is a well-known phenomenon - and it is now becoming even more prominent
 categories: ['Mortgages']
 tags: ['Mar 2017', 'Story', 'News']
 permalink: news/Bank-of-Mum-and-Dad-plays-bigger-role-in-first-time-buying.htm

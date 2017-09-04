@@ -3,7 +3,7 @@ layout: news
 title: E.On raises dual fuel tariffs by 8.8% - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Energy firm E
 categories: ['Utilities']
 tags: ['Mar 2017', 'Story', 'News']
 permalink: news/E-On-raises-dual-fuel-tariffs-by-8-8-.htm

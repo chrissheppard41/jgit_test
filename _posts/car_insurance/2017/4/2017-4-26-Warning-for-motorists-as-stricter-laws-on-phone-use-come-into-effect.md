@@ -3,7 +3,7 @@ layout: news
 title: Warning for motorists as stricter laws on phone use come into effect - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Motorists have been reminded that they face stiffer penalty points for mobile phone use, in the wake of the introduction of stiffer penalties
 categories: ['Car Insurance UK']
 tags: ['Apr 2017', 'Story', 'News']
 permalink: news/Warning-for-motorists-as-stricter-laws-on-phone-use-come-into-effect.htm

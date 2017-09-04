@@ -3,7 +3,7 @@ layout: news
 title: Holidaymakers set for travel money bonus as election boosts pound - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The shock decision by prime minister Theresa May to call a general election may have one unexpected benefit - more money in the pockets of Britons holidaying abroad
 categories: ['Travel Insurance']
 tags: ['Apr 2017', 'Story', 'News']
 permalink: news/Holidaymakers-set-for-travel-money-bonus-as-election-boosts-pound.htm

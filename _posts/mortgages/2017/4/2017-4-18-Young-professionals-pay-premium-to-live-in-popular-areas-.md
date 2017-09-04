@@ -3,7 +3,7 @@ layout: news
 title: Young professionals 'pay premium to live in popular areas' - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Young professionals are paying an average of &pound;71,000 more to live in the most popular areas of the country, new research has revealed
 categories: ['Mortgages']
 tags: ['Apr 2017', 'Story', 'News']
 permalink: news/Young-professionals-pay-premium-to-live-in-popular-areas-.htm

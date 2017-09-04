@@ -3,7 +3,7 @@ layout: news
 title: Animals 'causing extensive damage' to cars   - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Animals caused over &pound;600,000 worth of damage to the cars of those aged over 50 alone last year, new data has revealed
 categories: ['Car Insurance UK']
 tags: ['Mar 2017', 'Story', 'News']
 permalink: news/Animals-causing-extensive-damage-to-cars.htm

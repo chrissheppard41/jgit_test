@@ -3,7 +3,7 @@ layout: news
 title: Edinburgh named top UK property hotspot - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Edinburgh has been identified as the leading property hotspot in Britain, according to a survey by property website Zoopla
 categories: ['Home Insurance UK']
 tags: ['Jun 2017', 'Story', 'News']
 permalink: news/Edinburgh-named-top-UK-property-hotspot.htm

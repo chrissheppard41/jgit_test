@@ -3,7 +3,7 @@ layout: news
 title: ABI warns new personal injury discount rate will increase car insurance premiums - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Motorists looking for the best car insurance deal could be facing a growing financial challenge in the wake of a change to the discount rate used to calculate the compensation awarded for serious personal injuries
 categories: ['Car Insurance UK']
 tags: ['Feb 2017', 'Story', 'News']
 permalink: news/ABI-warns-new-personal-injury-discount-rate-will-increase-car-insurance-premiums.htm

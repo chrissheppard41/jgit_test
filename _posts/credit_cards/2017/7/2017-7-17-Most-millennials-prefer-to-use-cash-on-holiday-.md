@@ -3,7 +3,7 @@ layout: news
 title: Most millennials 'prefer to use cash on holiday'  - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Many people have talked about the coming of a &#39;cashless society&#39;, but they clearly haven&#39;t spoken to millennial holidaymakers, who prefer to use notes and coins when on holiday
 categories: ['Credit Cards']
 tags: ['Jul 2017', 'Story', 'News']
 permalink: news/Most-millennials-prefer-to-use-cash-on-holiday-.htm

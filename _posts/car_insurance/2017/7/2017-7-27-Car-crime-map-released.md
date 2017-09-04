@@ -3,7 +3,7 @@ layout: news
 title: Car crime map released - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Being an inexperienced driver is not the only factor that can make motor insurance more expensive, as certain areas attract higher premiums due to being vehicle crime hotspots
 categories: ['Car Insurance UK']
 tags: ['Jul 2017', 'Story', 'News']
 permalink: news/Car-crime-map-released.htm

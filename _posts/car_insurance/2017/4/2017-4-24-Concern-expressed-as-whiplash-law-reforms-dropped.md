@@ -3,7 +3,7 @@ layout: news
 title: Concern expressed as whiplash law reforms dropped - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The AA has expressed concern that changes to the law on whiplash claims have been dropped as the general election approaches, which could lead to further increases in car insurance premiums
 categories: ['Car Insurance UK']
 tags: ['Apr 2017', 'Story', 'News']
 permalink: news/Concern-expressed-as-whiplash-law-reforms-dropped.htm

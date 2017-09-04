@@ -3,7 +3,7 @@ layout: news
 title: Best places to live in Britain revealed - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Halifax has published the results of its survey of the best rural places to live in Britain Survey, with the Orkney Islands coming out on top
 categories: ['Home Insurance UK']
 tags: ['Apr 2017', 'Story', 'News']
 permalink: news/Best-places-to-live-in-Britain-revealed.htm

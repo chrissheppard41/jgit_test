@@ -3,7 +3,7 @@ layout: news
 title: Catch the tram to get a valuable home - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Consumers looking to find the best mortgage deal to buy a home might want to consider buying in a location where a new tram line will open nearby, after research showed this can help increase the value of local properties
 categories: ['Mortgages']
 tags: ['May 2017', 'Story', 'News']
 permalink: news/Catch-the-tram-to-get-a-valuable-home.htm

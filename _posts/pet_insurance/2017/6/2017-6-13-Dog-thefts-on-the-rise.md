@@ -3,7 +3,7 @@ layout: news
 title: Dog thefts on the rise - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Many dog owners will take out pet insurance in case their pooch is ill or has an accident and needs costly medical care, but new figures show theft is also a growing threat
 categories: ['Pet Insurance']
 tags: ['Jun 2017', 'Story', 'News']
 permalink: news/Dog-thefts-on-the-rise.htm

@@ -3,7 +3,7 @@ layout: news
 title: Speeding accounts for most license penalty points - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The majority of points accumulated by motorists on their licenses are due to speeding, new data has revealed
 categories: ['Car Insurance']
 tags: ['Aug 2017', 'Story', 'News']
 permalink: news/Speeding-accounts-for-most-license-penalty-points.htm

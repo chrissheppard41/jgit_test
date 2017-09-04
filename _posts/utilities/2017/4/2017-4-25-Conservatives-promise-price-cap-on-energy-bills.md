@@ -3,7 +3,7 @@ layout: news
 title: Conservatives promise price cap on energy bills - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The Conservative party will legislate to cap energy bills for around seven out of ten households if it wins the general election, in a move that represents a significant u-turn on previous policies
 categories: ['Utilities']
 tags: ['Apr 2017', 'Story', 'News']
 permalink: news/Conservatives-promise-price-cap-on-energy-bills.htm

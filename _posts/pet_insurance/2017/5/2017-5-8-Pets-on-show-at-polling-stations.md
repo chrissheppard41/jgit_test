@@ -3,7 +3,7 @@ layout: news
 title: Pets on show at polling stations - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Polling stations were open across the country last Thursday (May 4th) as local and mayoral elections took place, which meant one thing was certain - a parade of cute pooches
 categories: ['Pet Insurance']
 tags: ['May 2017', 'Story', 'News']
 permalink: news/Pets-on-show-at-polling-stations.htm

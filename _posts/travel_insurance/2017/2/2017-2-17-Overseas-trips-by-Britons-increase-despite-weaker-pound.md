@@ -3,7 +3,7 @@ layout: news
 title: Overseas trips by Britons increase despite weaker pound - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: More Britons travelled overseas in the final three months of 2016 than in the equivalent period of 2015, new figures published by the Office for National Statistics have revealed
 categories: ['Travel Insurance']
 tags: ['Feb 2017', 'Story', 'News']
 permalink: news/Overseas-trips-by-Britons-increase-despite-weaker-pound.htm

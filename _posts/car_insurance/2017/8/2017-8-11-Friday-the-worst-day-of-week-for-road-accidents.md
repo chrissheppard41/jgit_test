@@ -3,7 +3,7 @@ layout: news
 title: Friday the worst day of week for road accidents - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Friday is for most people the day they can wind down and look forward to the weekend, but for motorists, it can be a day of great stress or even worse as it is the time when road traffic accidents are most likely to happen
 categories: ['Car Insurance']
 tags: ['Aug 2017', 'Story', 'News']
 permalink: news/Friday-the-worst-day-of-week-for-road-accidents.htm

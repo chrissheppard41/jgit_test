@@ -3,7 +3,7 @@ layout: news
 title: Young drivers most afraid of parking   - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: A new survey has found that young, newly-qualified drivers are more afraid of parking than anything else they might encounter when behind the wheel
 categories: ['Car Insurance UK']
 tags: ['Jul 2017', 'Story', 'News']
 permalink: news/Young-drivers-most-afraid-of-parking.htm

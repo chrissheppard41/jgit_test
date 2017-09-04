@@ -3,7 +3,7 @@ layout: news
 title: Implants seek to provide human solution to canine epilepsy - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Dog owners whose furry friends suffer from epilepsy have been given new hope of an effective treatment, through the use of implants normally used to control the condition in humans
 categories: ['Pet Insurance']
 tags: ['May 2017', 'Story', 'News']
 permalink: news/Implants-seek-to-provide-human-solution-to-canine-epilepsy.htm

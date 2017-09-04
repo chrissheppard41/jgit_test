@@ -3,7 +3,7 @@ layout: news
 title: Weather warning could affect home insurance   - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Home insurance can often be a tricky thing to get a good deal on when a property is at some risk of flooding - and the feat may prove more difficult in years to come
 categories: ['Home Insurance UK']
 tags: ['Jul 2017', 'Story', 'News']
 permalink: news/Weather-warning-could-affect-home-insurance.htm

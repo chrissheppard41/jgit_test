@@ -3,7 +3,7 @@ layout: news
 title: SSE to hike electricity prices - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: SSE has become the latest energy provider to announce a price hike
 categories: ['Utilities']
 tags: ['Mar 2017', 'Story', 'News']
 permalink: news/SSE-to-hike-electricity-prices.htm

@@ -3,7 +3,7 @@ layout: news
 title: Government to end rip-off card charges - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The government has announced the end to the rip-off card charges that can hit consumers across the UK
 categories: ['Credit Cards']
 tags: ['Jul 2017', 'Story', 'News']
 permalink: news/Government-to-end-rip-off-card-charges.htm

@@ -3,7 +3,7 @@ layout: news
 title: Britons 'face £700 million bill for neighbours' water leaks' - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Britons may face many bills caused by water leaks in their own homes, but a study by Direct Line has found that the bill for those emanating from other people&#39;s homes is &pound;707 million
 categories: ['Home Insurance UK']
 tags: ['May 2017', 'Story', 'News']
 permalink: news/Britons-face-700-million-bill-for-neighbours-water-leaks-.htm

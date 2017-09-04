@@ -3,7 +3,7 @@ layout: news
 title: Young drivers 'would make financial sacrifices to keep on driving' - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The majority of young drivers would happily make sacrifices such as spending less money on clothes and socialising to make sure they remain on the road, a new survey has revealed
 categories: ['Car Insurance UK']
 tags: ['Feb 2017', 'Story', 'News']
 permalink: news/Young-drivers-would-make-financial-sacrifices-to-keep-on-driving-.htm

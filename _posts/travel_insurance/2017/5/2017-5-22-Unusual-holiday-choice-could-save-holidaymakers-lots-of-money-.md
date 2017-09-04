@@ -3,7 +3,7 @@ layout: news
 title: Unusual holiday choice 'could save holidaymakers lots of money' - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Britons shelling out for a holiday in the upcoming half-term break may be hit with significant price rises - but things could be much cheaper if they head off the beaten track
 categories: ['Travel Insurance']
 tags: ['May 2017', 'Story', 'News']
 permalink: news/Unusual-holiday-choice-could-save-holidaymakers-lots-of-money-.htm

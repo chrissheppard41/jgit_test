@@ -3,7 +3,7 @@ layout: news
 title: Consumer confidence 'on the rise' - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The level of confidence UK consumers have about their finances has risen steadily, and people are willing to spend more
 categories: ['Credit Cards']
 tags: ['Mar 2017', 'Story', 'News']
 permalink: news/Consumer-confidence-on-the-rise-.htm

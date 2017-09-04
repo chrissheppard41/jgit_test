@@ -3,7 +3,7 @@ layout: news
 title: Most expensive seaside towns revealed - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: House-hunters looking for the best mortgage deal will need to get a particularly good one to finance the purchase of a home in some seaside towns in Britain, particularly sandbanks in Dorset
 categories: ['Mortgages']
 tags: ['May 2017', 'Story', 'News']
 permalink: news/Most-expensive-seaside-towns-revealed.htm

@@ -3,7 +3,7 @@ layout: news
 title: More electricity customers switch supplier - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The number of customers switching electricity supplier in 2017 hit three million by the end of July, a 14 per cent rise on last year
 categories: ['Utilities']
 tags: ['Aug 2017', 'Story', 'News']
 permalink: news/More-electricity-customers-switch-supplier.htm

@@ -3,7 +3,7 @@ layout: news
 title: Mortgage market may be expanded by government plans - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The government has published new plans aimed at increasing home ownership across the UK, through the building of more new homes
 categories: ['Mortgages']
 tags: ['Feb 2017', 'Story', 'News']
 permalink: news/Mortgage-market-may-be-expanded-by-government-plans.htm

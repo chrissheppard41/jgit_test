@@ -3,7 +3,7 @@ layout: news
 title: Travel more, over-50s advise younger people - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Not seeing more of the world is one of the biggest regrets expressed by over-50s, a new survey has found
 categories: ['Travel Insurance UK']
 tags: ['Mar 2017', 'Story', 'News']
 permalink: news/Travel-more-over-50s-advise-younger-people.htm

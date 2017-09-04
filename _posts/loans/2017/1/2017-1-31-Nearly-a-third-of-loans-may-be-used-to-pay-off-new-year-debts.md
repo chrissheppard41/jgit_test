@@ -3,7 +3,7 @@ layout: news
 title: Nearly a third of loans may be used to pay off new year debts - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: January is a time when millions of consumers seek to tackle their finances, both as new year resolutions and as a response to the situations they find themselves in after spending lots of money around Christmas
 categories: ['Loans UK']
 tags: ['Jan 2017', 'Story', 'News']
 permalink: news/Nearly-a-third-of-loans-may-be-used-to-pay-off-new-year-debts.htm

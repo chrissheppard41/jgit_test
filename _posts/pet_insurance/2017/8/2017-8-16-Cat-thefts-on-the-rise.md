@@ -3,7 +3,7 @@ layout: news
 title: Cat thefts on the rise - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: For many distressed owners, catnip has given way to &lsquo;cat nicked&rsquo; as thefts of the pets have increased
 categories: ['Pet Insurance']
 tags: ['Aug 2017', 'Story', 'News']
 permalink: news/Cat-thefts-on-the-rise.htm

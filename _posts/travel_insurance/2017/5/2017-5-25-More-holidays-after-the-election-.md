@@ -3,7 +3,7 @@ layout: news
 title: More holidays after the election? - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: With the general election fast approaching, political junkies have been having the time of their lives
 categories: ['Travel Insurance']
 tags: ['May 2017', 'Story', 'News']
 permalink: news/More-holidays-after-the-election-.htm

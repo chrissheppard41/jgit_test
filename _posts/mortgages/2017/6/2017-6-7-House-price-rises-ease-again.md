@@ -3,7 +3,7 @@ layout: news
 title: House price rises ease again - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The affordability of residential property is continuing to become more favourable, after a fresh fall in the rate of house price inflation
 categories: ['Mortgages']
 tags: ['Jun 2017', 'Story', 'News']
 permalink: news/House-price-rises-ease-again.htm

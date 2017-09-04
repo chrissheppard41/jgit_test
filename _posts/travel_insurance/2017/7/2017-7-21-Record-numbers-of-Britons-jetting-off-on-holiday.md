@@ -3,7 +3,7 @@ layout: news
 title: Record numbers of Britons jetting off on holiday - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The pound may have fallen in value against many foreign currencies after last year&#39;s Brexit vote, but that has not stopped a record number of Britons booking summer holidays overseas
 categories: ['Travel Insurance']
 tags: ['Jul 2017', 'Story', 'News']
 permalink: news/Record-numbers-of-Britons-jetting-off-on-holiday.htm

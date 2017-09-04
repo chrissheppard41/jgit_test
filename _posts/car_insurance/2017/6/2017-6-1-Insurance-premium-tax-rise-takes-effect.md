@@ -3,7 +3,7 @@ layout: news
 title: Insurance premium tax rise takes effect - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Anyone thinking of shopping around for a new car or home insurance policy will have a big incentive to do so after the latest rise in insurance premium tax (IPT) took effect
 categories: ['Car Insurance UK']
 tags: ['Jun 2017', 'Story', 'News']
 permalink: news/Insurance-premium-tax-rise-takes-effect.htm

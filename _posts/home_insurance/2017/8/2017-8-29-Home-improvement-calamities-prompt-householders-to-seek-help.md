@@ -3,7 +3,7 @@ layout: news
 title: Home improvement calamities prompt householders to seek help - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Thousands of householders have been contacting Citizens Advice over domestic disasters caused by botched DIY work or maintenance jobs, the charity has said
 categories: ['Home Insurance']
 tags: ['Aug 2017', 'Story', 'News']
 permalink: news/Home-improvement-calamities-prompt-householders-to-seek-help.htm

@@ -3,7 +3,7 @@ layout: news
 title: Is now the time to get a mortgage before rates rise? - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The cost of interest on a mortgage is at an historic low, due to the fact that the Bank of England base rate is at its lowest ever rate of 0
 categories: ['Mortgages']
 tags: ['Jun 2017', 'Story', 'News']
 permalink: news/Is-now-the-time-to-get-a-mortgage-before-rates-rise-.htm

@@ -3,7 +3,7 @@ layout: news
 title: Britain prefers dogs to cats, survey says  - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Dogs are more popular pets than cats, according to a new survey by Sainsbury&#39;s Bank
 categories: ['Pet Insurance']
 tags: ['Jun 2017', 'Story', 'News']
 permalink: news/Britain-prefers-dogs-to-cats-survey-says.htm

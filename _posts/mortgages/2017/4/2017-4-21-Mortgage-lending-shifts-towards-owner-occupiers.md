@@ -3,7 +3,7 @@ layout: news
 title: Mortgage lending shifts towards owner-occupiers - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The level of mortgage lending to owner-occupiers across the country surged in March, according to new figures published by the Council of Mortgage Lenders (CML)
 categories: ['Mortgages']
 tags: ['Apr 2017', 'Story', 'News']
 permalink: news/Mortgage-lending-shifts-towards-owner-occupiers.htm

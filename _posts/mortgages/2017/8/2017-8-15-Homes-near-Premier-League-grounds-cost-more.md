@@ -3,7 +3,7 @@ layout: news
 title: Homes near Premier League grounds cost more - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: People seeking a mortgage to buy a home will always have good reasons to shop around for the best deal, but this will be even more true for those who want to live near their favourite football teams
 categories: ['Mortgages']
 tags: ['Aug 2017', 'Story', 'News']
 permalink: news/Homes-near-Premier-League-grounds-cost-more.htm

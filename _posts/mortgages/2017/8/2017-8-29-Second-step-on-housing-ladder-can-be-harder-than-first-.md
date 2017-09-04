@@ -3,7 +3,7 @@ layout: news
 title: Second step on housing ladder 'can be harder than first' - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Getting a mortgage to take the first step on the housing ladder has proven notoriously difficult for many would-be first-time buyers in recent years, but for many the problem is making the next move
 categories: ['Mortgages']
 tags: ['Aug 2017', 'Story', 'News']
 permalink: news/Second-step-on-housing-ladder-can-be-harder-than-first-.htm

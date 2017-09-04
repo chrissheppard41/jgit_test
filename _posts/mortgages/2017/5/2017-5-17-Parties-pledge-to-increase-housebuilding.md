@@ -3,7 +3,7 @@ layout: news
 title: Parties pledge to increase housebuilding - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: More new homes and increased affordability are set to be common themes across the political spectrum as the various party manifestos are published ahead of next month&#39;s general election
 categories: ['Mortgages']
 tags: ['May 2017', 'Story', 'News']
 permalink: news/Parties-pledge-to-increase-housebuilding.htm

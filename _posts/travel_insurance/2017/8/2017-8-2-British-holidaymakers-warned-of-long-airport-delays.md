@@ -3,7 +3,7 @@ layout: news
 title: British holidaymakers warned of long airport delays - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Britons flying overseas have been warned they face potential delays at a number of EU airports due to the introduction of stringent new passport control checks
 categories: ['Travel Insurance']
 tags: ['Aug 2017', 'Story', 'News']
 permalink: news/British-holidaymakers-warned-of-long-airport-delays.htm

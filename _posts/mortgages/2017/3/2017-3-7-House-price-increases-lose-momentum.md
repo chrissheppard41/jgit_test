@@ -3,7 +3,7 @@ layout: news
 title: House price increases lose momentum - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The rate at which UK house prices have increased in the last year has eased to 5
 categories: ['Mortgages']
 tags: ['Mar 2017', 'Story', 'News']
 permalink: news/House-price-increases-lose-momentum.htm

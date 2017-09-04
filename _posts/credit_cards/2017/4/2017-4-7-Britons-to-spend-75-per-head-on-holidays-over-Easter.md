@@ -3,7 +3,7 @@ layout: news
 title: Britons 'to spend £75 per head' on holidays over Easter - Quotezone.co.uk
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The average Briton will spend &pound;75 on holiday accommodation over the Easter weekend, a survey has revealed
 categories: ['Credit Cards']
 tags: ['Apr 2017', 'Story', 'News']
 permalink: news/Britons-to-spend-75-per-head-on-holidays-over-Easter.htm
