@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Drivers 'must be sensible during World Cup' - Quotezone.co.uk
+title: Drivers 'must be sensible during World Cup' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The World Cup is here and that means people across Northern Ireland will be getting into the party mood over the coming weeks, but one issue they shou
 categories: ['Other Insurance']
 tags: ['Jun 2014', 'Story', 'News']
 permalink: news/Drivers-must-be-sensible-during-World-Cup-.htm

@@ -1,9 +1,9 @@
 ---
 layout: news
-title: CCTV footage released of car vandalism - Quotezone.co.uk
+title: CCTV footage released of car vandalism - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The Police Service of Northern Ireland has released footage showing a vandal damaging 30 cars in County Tyrone in the early hours of last Sunday morni
 categories: ['Car Insurance']
 tags: ['Aug 2017', 'Story', 'News']
 permalink: news/CCTV-footage-released-of-car-vandalism.htm

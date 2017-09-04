@@ -1,9 +1,9 @@
 ---
 layout: news
-title: 'Be prepared' for a breakdown - Quotezone.co.uk
+title: 'Be prepared' for a breakdown - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Motorists across Northern Ireland will be taking to the roads over the coming weeks now the weather has taken a turn for the better and the sun is fin
 categories: ['Other Insurance']
 tags: ['Apr 2014', 'Story', 'News']
 permalink: news/-Be-prepared-for-a-breakdown.htm

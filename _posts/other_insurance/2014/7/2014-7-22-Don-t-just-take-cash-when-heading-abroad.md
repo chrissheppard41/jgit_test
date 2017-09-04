@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Don't just take cash when heading abroad - Quotezone.co.uk
+title: Don't just take cash when heading abroad - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Summer is here and that means just one thing, millions of people will be heading off on holidays overseas in the coming weeks, but people planning a g
 categories: ['Other Insurance']
 tags: ['Jul 2014', 'Story', 'News']
 permalink: news/Don-t-just-take-cash-when-heading-abroad.htm

@@ -1,9 +1,11 @@
 ---
 layout: news
-title: Drink-drive limits 'should be lower for young and inexperienced drivers' - Quotezone.co.uk
+title: Drink-drive limits 'should be lower for young and inexperienced drivers' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Many members of the public believe young and inexperienced drivers should be subject to lower drink-drive limits, a new survey has revealed.
+
+A number
 categories: ['Other Insurance']
 tags: ['May 2015', 'Story', 'News']
 permalink: news/Drink-drive-limits-should-be-lower-for-young-and-inexperienced-drivers-.htm

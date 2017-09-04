@@ -1,9 +1,11 @@
 ---
 layout: news
-title: Dog owners urged to safeguard pets during hot weather - Quotezone.co.uk
+title: Dog owners urged to safeguard pets during hot weather - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Dog owners have been warned that their pets could fall ill or die in hot spring and summer weather unless extra care is taken.
+
+According to the Briti
 categories: ['Other Insurance']
 tags: ['Apr 2015', 'Story', 'News']
 permalink: news/Dog-owners-urged-to-safeguard-pets-during-hot-weather.htm

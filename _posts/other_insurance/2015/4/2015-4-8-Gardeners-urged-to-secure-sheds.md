@@ -1,9 +1,11 @@
 ---
 layout: news
-title: Gardeners urged to secure sheds - Quotezone.co.uk
+title: Gardeners urged to secure sheds - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Homeowners with a garden shed have been urged to keep it locked or risk falling victim to theft.
+
+According to figures from M&amp;S Bank, the contents
 categories: ['Other Insurance']
 tags: ['Apr 2015', 'Story', 'News']
 permalink: news/Gardeners-urged-to-secure-sheds.htm

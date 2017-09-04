@@ -1,9 +1,11 @@
 ---
 layout: news
-title: What to do when faced with a breakdown - Quotezone.co.uk
+title: What to do when faced with a breakdown - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Drivers across Northern Ireland should understand how to safely tackle the issue of a breakdown when travelling on the nation&#39;s busy roads.
+
+Accor
 categories: ['Other Insurance']
 tags: ['Oct 2013', 'Story', 'News']
 permalink: news/What-to-do-when-faced-with-a-breakdown.htm

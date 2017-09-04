@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Parking problems 'causing headaches' - Quotezone.co.uk
+title: Parking problems 'causing headaches' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: A significant proportion of people across Northern Ireland and the rest of the UK are fed up with motorists parking inappropriately, a new survey has
 categories: ['Other Insurance']
 tags: ['Jan 2014', 'Story', 'News']
 permalink: news/Parking-problems-causing-headaches-.htm

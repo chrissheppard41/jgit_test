@@ -1,9 +1,11 @@
 ---
 layout: news
-title: Too many air pollution deaths in Northern Ireland, warns doctor - Quotezone.co.uk
+title: Too many air pollution deaths in Northern Ireland, warns doctor - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Urgent action is needed to reduce the number of deaths caused by air pollution in Northern Ireland, a medical expert has claimed.
+
+Dr Gary McFarlane,
 categories: ['Other Insurance']
 tags: ['Feb 2015', 'Story', 'News']
 permalink: news/Too-many-air-pollution-deaths-in-Northern-Ireland-warns-doctor.htm

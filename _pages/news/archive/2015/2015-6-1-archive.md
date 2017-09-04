@@ -1,10 +1,10 @@
 ---
 layout: news
-title: Jun 2015 archive - Quotezone.co.uk
+title: Jun 2015 archive - Compareni.com
 page_title: Index
 meta:
   keywords: Insurance, Finance, Cover, Liability news
-  description: Insurance, Finance, Cover, Liability news at Quotezone.co.uk.
+  description: Insurance, Finance, Cover, Liability news at Compareni.com
 permalink: news/archive/2015/6.htm
 categories: []
 tags: ["monthly"]

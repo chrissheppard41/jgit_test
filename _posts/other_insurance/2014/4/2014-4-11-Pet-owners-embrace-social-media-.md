@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Pet owners 'embrace social media' - Quotezone.co.uk
+title: Pet owners 'embrace social media' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Nearly one in ten (seven per cent) pet owners across the UK admit to having a social media account in the name of their beloved pet, new research has
 categories: ['Other Insurance']
 tags: ['Apr 2014', 'Story', 'News']
 permalink: news/Pet-owners-embrace-social-media-.htm

@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Overseas travellers 'should get the right cards' - Quotezone.co.uk
+title: Overseas travellers 'should get the right cards' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Anyone planning a holiday abroad needs to understand the importance of taking the right credit cards with them, to avoid excessive costs when making p
 categories: ['Other Insurance']
 tags: ['Jun 2014', 'Story', 'News']
 permalink: news/Overseas-travellers-should-get-the-right-cards-.htm

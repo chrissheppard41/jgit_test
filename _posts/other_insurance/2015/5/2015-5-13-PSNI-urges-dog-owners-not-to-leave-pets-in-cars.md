@@ -1,9 +1,11 @@
 ---
 layout: news
-title: PSNI urges dog owners not to leave pets in cars - Quotezone.co.uk
+title: PSNI urges dog owners not to leave pets in cars - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Dog owners in Northern Ireland have been told not to leave their pets in their car.
+
+Last weekend, officers from the PSNI had to smash a vehicle&#39;s
 categories: ['Other Insurance']
 tags: ['May 2015', 'Story', 'News']
 permalink: news/PSNI-urges-dog-owners-not-to-leave-pets-in-cars.htm

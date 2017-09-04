@@ -1,9 +1,9 @@
 ---
 layout: news
-title: IAM advises on drink-drive dangers - Quotezone.co.uk
+title: IAM advises on drink-drive dangers - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Individuals across Northern Ireland will be getting ready to embrace the festive season in the coming weeks, but drivers have been urged to remember t
 categories: ['Other Insurance']
 tags: ['Dec 2013', 'Story', 'News']
 permalink: news/IAM-advises-on-drink-drive-dangers.htm

@@ -1,9 +1,11 @@
 ---
 layout: news
-title: Number of new house builds on the rise - Quotezone.co.uk
+title: Number of new house builds on the rise - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The number of new house builds in Northern Ireland (NI) has risen by almost a quarter in comparison to last year, a new report has revealed.
+
+Figures
 categories: ['Other Insurance']
 tags: ['Nov 2014', 'Story', 'News']
 permalink: news/Number-of-new-house-builds-on-the-rise.htm

@@ -1,9 +1,11 @@
 ---
 layout: news
-title: Payday loan changes to help consumers - Quotezone.co.uk
+title: Payday loan changes to help consumers - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: New rules are set to make lending fairer for those who take out so-called payday loans.
+
+The Financial Conduct Authority (FCA) has announced regulatio
 categories: ['Other Insurance']
 tags: ['Nov 2014', 'Story', 'News']
 permalink: news/Payday-loan-changes-to-help-consumers.htm

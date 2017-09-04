@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Safer driving could save lives - Quotezone.co.uk
+title: Safer driving could save lives - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Car owners across Northern Ireland should be aware of the dangers of driving at this time of year, with shorter daylight hours, colder temperatures an
 categories: ['Other Insurance']
 tags: ['Sep 2013', 'Story', 'News']
 permalink: news/Safer-driving-could-save-lives.htm

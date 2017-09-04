@@ -1,9 +1,11 @@
 ---
 layout: news
-title: Northern Ireland A&E patients wait up to 12 hours - Quotezone.co.uk
+title: Northern Ireland A&E patients wait up to 12 hours - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: A&amp;E patients in Northern Ireland have to endure the longest waiting times in comparison to the rest of the UK, it has been revealed.
+
+The latest D
 categories: ['Other Insurance']
 tags: ['Jan 2015', 'Story', 'News']
 permalink: news/Northern-Ireland-A-E-patients-wait-up-to-12-hours.htm

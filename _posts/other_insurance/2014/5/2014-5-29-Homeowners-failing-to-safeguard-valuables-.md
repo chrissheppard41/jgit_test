@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Homeowners 'failing to safeguard valuables' - Quotezone.co.uk
+title: Homeowners 'failing to safeguard valuables' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The results of a recent survey may well encourage homeowners in Northern Ireland - and all over the UK for that matter - to take better care of their
 categories: ['Other Insurance']
 tags: ['May 2014', 'Story', 'News']
 permalink: news/Homeowners-failing-to-safeguard-valuables-.htm

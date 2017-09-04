@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Tyre safety tips for caravanners - Quotezone.co.uk
+title: Tyre safety tips for caravanners - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Thousands of caravan enthusiasts will be taking to the roads over the coming months as they look to make the best of the fleeting British summer, but
 categories: ['Other Insurance']
 tags: ['Jul 2014', 'Story', 'News']
 permalink: news/Tyre-safety-tips-for-caravanners.htm

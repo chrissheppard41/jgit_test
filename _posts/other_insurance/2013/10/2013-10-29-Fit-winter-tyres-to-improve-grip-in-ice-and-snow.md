@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Fit winter tyres to improve grip in ice and snow - Quotezone.co.uk
+title: Fit winter tyres to improve grip in ice and snow - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Motorists across Northern Ireland should be preparing for the colder months ahead right now and this means ensuring their vehicle is ready for all the
 categories: ['Other Insurance']
 tags: ['Oct 2013', 'Story', 'News']
 permalink: news/Fit-winter-tyres-to-improve-grip-in-ice-and-snow.htm

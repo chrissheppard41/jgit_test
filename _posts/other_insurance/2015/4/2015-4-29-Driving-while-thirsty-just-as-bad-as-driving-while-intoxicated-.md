@@ -1,9 +1,11 @@
 ---
 layout: news
-title: Driving while thirsty 'just as bad as driving while intoxicated' - Quotezone.co.uk
+title: Driving while thirsty 'just as bad as driving while intoxicated' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Getting behind the wheel while dehydrated can be as dangerous as driving while intoxicated, a new study has found.
+
+According to research by Loughboro
 categories: ['Other Insurance']
 tags: ['Apr 2015', 'Story', 'News']
 permalink: news/Driving-while-thirsty-just-as-bad-as-driving-while-intoxicated-.htm

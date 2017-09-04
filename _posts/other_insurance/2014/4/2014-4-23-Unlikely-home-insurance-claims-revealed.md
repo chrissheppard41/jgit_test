@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Unlikely home insurance claims revealed - Quotezone.co.uk
+title: Unlikely home insurance claims revealed - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Home insurance is one of the most important safeguards property owners can have in place in order to protect their financial security, and this is som
 categories: ['Other Insurance']
 tags: ['Apr 2014', 'Story', 'News']
 permalink: news/Unlikely-home-insurance-claims-revealed.htm

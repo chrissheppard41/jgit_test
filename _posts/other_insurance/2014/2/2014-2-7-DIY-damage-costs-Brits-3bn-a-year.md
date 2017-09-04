@@ -1,9 +1,9 @@
 ---
 layout: news
-title: DIY damage costs Brits £3bn a year - Quotezone.co.uk
+title: DIY damage costs Brits £3bn a year - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Property owners across the UK are shelling out the equivalent of &pound;3 billion a year to repair damage caused to their home through their over-enth
 categories: ['Other Insurance']
 tags: ['Feb 2014', 'Story', 'News']
 permalink: news/DIY-damage-costs-Brits-3bn-a-year.htm

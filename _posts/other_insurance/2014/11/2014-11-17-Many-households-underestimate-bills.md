@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Many households underestimate bills - Quotezone.co.uk
+title: Many households underestimate bills - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Households across the UK could be facing a more difficult financial future as a result of a lack of attention when it comes to the costs of monthly bi
 categories: ['Other Insurance']
 tags: ['Nov 2014', 'Story', 'News']
 permalink: news/Many-households-underestimate-bills.htm

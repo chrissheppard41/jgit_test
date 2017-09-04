@@ -1,9 +1,9 @@
 ---
 layout: news
-title: First-time buyer activity rising - Quotezone.co.uk
+title: First-time buyer activity rising - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The number of first-time buyers entering the housing market in the UK continues to rise, new research from Nationwide Building Society has revealed.
 categories: ['Other Insurance']
 tags: ['Jan 2014', 'Story', 'News']
 permalink: news/First-time-buyer-activity-rising.htm

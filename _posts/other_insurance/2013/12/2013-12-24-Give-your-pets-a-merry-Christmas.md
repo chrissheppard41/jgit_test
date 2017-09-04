@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Give your pets a merry Christmas - Quotezone.co.uk
+title: Give your pets a merry Christmas - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: People across Northern Ireland are getting ready today to ring in the festive cheer, but individuals who wish to give their pet a merry Christmas have
 categories: ['Other Insurance']
 tags: ['Dec 2013', 'Story', 'News']
 permalink: news/Give-your-pets-a-merry-Christmas.htm

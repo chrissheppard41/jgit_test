@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Seasonal driving advice for motorists - Quotezone.co.uk
+title: Seasonal driving advice for motorists - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: With the nights becoming darker earlier and the weather becoming wetter and colder, now is the time of year when motorists up and down the country nee
 categories: ['Other Insurance']
 tags: ['Oct 2013', 'Story', 'News']
 permalink: news/Seasonal-driving-advice-for-motorists.htm

@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Winter tyres 'can help in cold weather' - Quotezone.co.uk
+title: Winter tyres 'can help in cold weather' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Motorists across Northern Ireland need to be prepared for all the colder months ahead will have to throw at them and for this reason drivers are being
 categories: ['Other Insurance']
 tags: ['Dec 2013', 'Story', 'News']
 permalink: news/Winter-tyres-can-help-in-cold-weather-.htm

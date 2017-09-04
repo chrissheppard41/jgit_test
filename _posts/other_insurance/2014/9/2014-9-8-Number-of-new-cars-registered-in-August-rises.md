@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Number of new cars registered in August rises - Quotezone.co.uk
+title: Number of new cars registered in August rises - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: For many, the start of a new month marks the beginning of changes to career, health and lifestyle. This could involve individuals choosing to spend th
 categories: ['Other Insurance']
 tags: ['Sep 2014', 'Story', 'News']
 permalink: news/Number-of-new-cars-registered-in-August-rises.htm

@@ -1,9 +1,11 @@
 ---
 layout: news
-title: Pet obesity on the rise - Quotezone.co.uk
+title: Pet obesity on the rise - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Vets are becoming increasingly concerned about growing obesity levels among household pets.
+
+According to animal charity PDSA, eight in ten veterinary
 categories: ['Other Insurance']
 tags: ['Mar 2015', 'Story', 'News']
 permalink: news/Pet-obesity-on-the-rise.htm

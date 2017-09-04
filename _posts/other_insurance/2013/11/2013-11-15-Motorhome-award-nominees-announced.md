@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Motorhome award nominees announced - Quotezone.co.uk
+title: Motorhome award nominees announced - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Which Motorhome has announced its nominees for next year&#39;s prestigious motorhome of the year titles in partnership with Motorcaravan Motorhome Mon
 categories: ['Other Insurance']
 tags: ['Nov 2013', 'Story', 'News']
 permalink: news/Motorhome-award-nominees-announced.htm

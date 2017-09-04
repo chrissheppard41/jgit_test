@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Young drivers 'need more training' - Quotezone.co.uk
+title: Young drivers 'need more training' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: A significant proportion of young motorists are demonstrating a sense of overconfidence in their abilities, a situation which could exacerbate issues
 categories: ['Other Insurance']
 tags: ['Apr 2014', 'Story', 'News']
 permalink: news/Young-drivers-need-more-training-.htm

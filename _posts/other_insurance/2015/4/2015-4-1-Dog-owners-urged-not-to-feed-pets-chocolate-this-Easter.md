@@ -1,9 +1,11 @@
 ---
 layout: news
-title: Dog owners urged not to feed pets chocolate this Easter - Quotezone.co.uk
+title: Dog owners urged not to feed pets chocolate this Easter - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Dog owners have been reminded that chocolate can be highly poisonous to canines.
+
+According to the British Veterinary Association (BVA), 54 per cent o
 categories: ['Other Insurance']
 tags: ['Apr 2015', 'Story', 'News']
 permalink: news/Dog-owners-urged-not-to-feed-pets-chocolate-this-Easter.htm

@@ -1,9 +1,9 @@
 ---
 layout: news
-title: IAM highlights greatest driver distractions - Quotezone.co.uk
+title: IAM highlights greatest driver distractions - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: New research published by the Institute of Advanced Motorists (IAM) has highlighted the most likely causes of distraction for vehicle operators on the
 categories: ['Other Insurance']
 tags: ['Feb 2014', 'Story', 'News']
 permalink: news/IAM-highlights-greatest-driver-distractions.htm

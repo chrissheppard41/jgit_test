@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Half of borrowers 'unaware of MMR impact' - Quotezone.co.uk
+title: Half of borrowers 'unaware of MMR impact' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The Mortgage Market Review (MMR) has had a significant impact upon the UK&#39;s mortgage sector over recent months, but more than half of all borrower
 categories: ['Other Insurance']
 tags: ['Aug 2014', 'Story', 'News']
 permalink: news/Half-of-borrowers-unaware-of-MMR-impact-.htm

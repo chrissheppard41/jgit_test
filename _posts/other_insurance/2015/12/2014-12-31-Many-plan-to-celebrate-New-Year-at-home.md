@@ -1,9 +1,11 @@
 ---
 layout: news
-title: Many plan to celebrate New Year at home - Quotezone.co.uk
+title: Many plan to celebrate New Year at home - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: With Christmas over for another year and 2014 drawing to a close, New Year&#39;s Eve is the next event on the festive calendar.
+
+It&#39;s known that
 categories: ['Other Insurance']
 tags: ['Dec 2015', 'Story', 'News']
 permalink: news/Many-plan-to-celebrate-New-Year-at-home.htm

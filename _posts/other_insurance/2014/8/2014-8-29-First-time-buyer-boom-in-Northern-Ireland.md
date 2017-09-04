@@ -1,9 +1,9 @@
 ---
 layout: news
-title: First-time buyer boom in Northern Ireland - Quotezone.co.uk
+title: First-time buyer boom in Northern Ireland - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: New figures from the Council of Mortgage Lenders (CML) have highlighted a considerable upturn in the number of first-time buyers entering the Northern
 categories: ['Other Insurance']
 tags: ['Aug 2014', 'Story', 'News']
 permalink: news/First-time-buyer-boom-in-Northern-Ireland.htm

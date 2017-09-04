@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Tackle the stress of driving abroad - Quotezone.co.uk
+title: Tackle the stress of driving abroad - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Summer will soon be here and that means individuals across the country will be planning excursions abroad, many of which will mean either hiring a car
 categories: ['Other Insurance']
 tags: ['May 2014', 'Story', 'News']
 permalink: news/Tackle-the-stress-of-driving-abroad.htm

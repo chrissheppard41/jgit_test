@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Stay safe when driving in wet conditions - Quotezone.co.uk
+title: Stay safe when driving in wet conditions - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Wet weather driving can be a challenging experience for even the most experienced of motorists and with conditions taking a turn for the worse across
 categories: ['Other Insurance']
 tags: ['Nov 2013', 'Story', 'News']
 permalink: news/Stay-safe-when-driving-in-wet-conditions.htm

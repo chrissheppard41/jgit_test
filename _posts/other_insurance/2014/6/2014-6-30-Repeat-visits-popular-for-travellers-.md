@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Repeat visits 'popular for travellers' - Quotezone.co.uk
+title: Repeat visits 'popular for travellers' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Travellers continue to visit the same destinations when heading abroad, with many Britons even returning to the same hotels and restaurants time and a
 categories: ['Other Insurance']
 tags: ['Jun 2014', 'Story', 'News']
 permalink: news/Repeat-visits-popular-for-travellers-.htm

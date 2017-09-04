@@ -1,9 +1,9 @@
 ---
 layout: news
-title: NI house prices cheapest in UK - Quotezone.co.uk
+title: NI house prices cheapest in UK - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The average house price in Northern Ireland is significantly cheaper than the rest of the UK, despite an annual price rise of 8.1 per cent, according
 categories: ['Other Insurance']
 tags: ['Jan 2015', 'Story', 'News']
 permalink: news/NI-house-prices-cheapest-in-UK.htm

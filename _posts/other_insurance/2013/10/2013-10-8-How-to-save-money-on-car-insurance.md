@@ -1,9 +1,9 @@
 ---
 layout: news
-title: How to save money on car insurance - Quotezone.co.uk
+title: How to save money on car insurance - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Car insurance can be a major expense for vehicle owners across Northern Ireland; therefore it is important drivers utilise a number of simple steps th
 categories: ['Other Insurance']
 tags: ['Oct 2013', 'Story', 'News']
 permalink: news/How-to-save-money-on-car-insurance.htm

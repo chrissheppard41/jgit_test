@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Holidaymakers 'should budget ahead of time' - Quotezone.co.uk
+title: Holidaymakers 'should budget ahead of time' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: New research has highlighted the fact that UK holidaymakers may be planning to spend that little bit more when travelling abroad this year, but also t
 categories: ['Other Insurance']
 tags: ['Aug 2014', 'Story', 'News']
 permalink: news/Holidaymakers-should-budget-ahead-of-time-.htm

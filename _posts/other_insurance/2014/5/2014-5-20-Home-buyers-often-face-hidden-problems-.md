@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Home buyers 'often face hidden problems' - Quotezone.co.uk
+title: Home buyers 'often face hidden problems' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: New research published by insurer LV= has revealed the extent to which property buyers across the UK are being faced with unexpected problems with the
 categories: ['Other Insurance']
 tags: ['May 2014', 'Story', 'News']
 permalink: news/Home-buyers-often-face-hidden-problems-.htm

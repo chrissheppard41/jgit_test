@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Older drivers 'must understand responsibilities' - Quotezone.co.uk
+title: Older drivers 'must understand responsibilities' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The Institute of Advanced Motorists (IAM) has highlighted a range of areas where older motorists need to focus in order to stay safe when out on the r
 categories: ['Other Insurance']
 tags: ['Mar 2014', 'Story', 'News']
 permalink: news/Older-drivers-must-understand-responsibilities-.htm

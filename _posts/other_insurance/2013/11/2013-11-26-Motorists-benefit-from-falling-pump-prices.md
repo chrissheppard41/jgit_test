@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Motorists benefit from falling pump prices - Quotezone.co.uk
+title: Motorists benefit from falling pump prices - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Drivers across Northern Ireland may have noticed a welcome change at the pumps over recent weeks, as average petrol and diesel prices across the UK ha
 categories: ['Other Insurance']
 tags: ['Nov 2013', 'Story', 'News']
 permalink: news/Motorists-benefit-from-falling-pump-prices.htm

@@ -1,9 +1,11 @@
 ---
 layout: news
-title: Dogs affected by owners' lifestyles, says study - Quotezone.co.uk
+title: Dogs affected by owners' lifestyles, says study - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The busy lifestyles of dog owners are having psychological effects on their four-legged friends, a new study suggests.
+
+According to research by scien
 categories: ['Other Insurance']
 tags: ['Jun 2015', 'Story', 'News']
 permalink: news/Dogs-affected-by-owners-lifestyles-says-study.htm

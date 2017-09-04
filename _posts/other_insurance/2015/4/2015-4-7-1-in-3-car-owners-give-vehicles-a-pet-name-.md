@@ -1,9 +1,11 @@
 ---
 layout: news
-title: 1 in 3 car owners 'give vehicles a pet name' - Quotezone.co.uk
+title: 1 in 3 car owners 'give vehicles a pet name' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: More than one in three drivers have given their car a pet name, a new study has revealed.
+
+According to research by Sainsbury&#39;s Bank, 35 per cent
 categories: ['Other Insurance']
 tags: ['Apr 2015', 'Story', 'News']
 permalink: news/1-in-3-car-owners-give-vehicles-a-pet-name-.htm

@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Insurers warn of unsecured trampolines in strong winds - Quotezone.co.uk
+title: Insurers warn of unsecured trampolines in strong winds - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The gale force winds that are currently circling Britain have sparked an influx of insurance claims surrounding unsecured garden trampolines crashing
 categories: ['Other Insurance']
 tags: ['Jan 2015', 'Story', 'News']
 permalink: news/Insurers-warn-of-unsecured-trampolines-in-strong-winds.htm

@@ -1,9 +1,11 @@
 ---
 layout: news
-title: Road safety charity renews calls for clock adjustment - Quotezone.co.uk
+title: Road safety charity renews calls for clock adjustment - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The government is facing renewed pressure to adjust the UK&#39;s clocks in order to reduce the number of road accidents.
+
+According to road safety cha
 categories: ['Other Insurance']
 tags: ['Mar 2015', 'Story', 'News']
 permalink: news/Road-safety-charity-renews-calls-for-clock-adjustment.htm

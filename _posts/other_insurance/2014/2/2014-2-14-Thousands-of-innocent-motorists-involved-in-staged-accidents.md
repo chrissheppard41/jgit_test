@@ -1,9 +1,11 @@
 ---
 layout: news
-title: Thousands of 'innocent motorists' involved in staged accidents - Quotezone.co.uk
+title: Thousands of 'innocent motorists' involved in staged accidents - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: More than 1,000 innocent motorists per week are involved in staged accidents on the UK&#39;s roads, new figures from LV= have revealed.
+
+The insurer h
 categories: ['Other Insurance']
 tags: ['Feb 2014', 'Story', 'News']
 permalink: news/Thousands-of-innocent-motorists-involved-in-staged-accidents.htm

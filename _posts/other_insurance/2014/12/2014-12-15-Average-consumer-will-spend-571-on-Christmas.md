@@ -1,9 +1,11 @@
 ---
 layout: news
-title: Average consumer will spend £571 on Christmas - Quotezone.co.uk
+title: Average consumer will spend £571 on Christmas - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The average consumer in Northern Ireland can expect to spend &pound;571 on Christmas this year, according to new research.
+
+Northern Ireland Credit Un
 categories: ['Other Insurance']
 tags: ['Dec 2014', 'Story', 'News']
 permalink: news/Average-consumer-will-spend-571-on-Christmas.htm

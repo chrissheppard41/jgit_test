@@ -1,9 +1,11 @@
 ---
 layout: news
-title: Pack an emergency car kit this winter - Quotezone.co.uk
+title: Pack an emergency car kit this winter - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Motorists across Northern Ireland need to be prepared for whatever the winter has to throw at them.
+
+Therefore, packing a number of essential items in
 categories: ['Other Insurance']
 tags: ['Nov 2013', 'Story', 'News']
 permalink: news/Pack-an-emergency-car-kit-this-winter.htm

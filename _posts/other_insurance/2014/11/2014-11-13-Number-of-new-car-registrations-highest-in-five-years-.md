@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Number of new car registrations 'highest in five years' - Quotezone.co.uk
+title: Number of new car registrations 'highest in five years' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The number of new vehicle sales in Northern Ireland (NI) has increased by nearly ten per cent in the past year, signalling the ongoing economic recove
 categories: ['Other Insurance']
 tags: ['Nov 2014', 'Story', 'News']
 permalink: news/Number-of-new-car-registrations-highest-in-five-years-.htm

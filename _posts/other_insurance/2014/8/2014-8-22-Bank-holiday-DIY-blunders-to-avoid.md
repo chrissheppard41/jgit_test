@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Bank holiday DIY blunders to avoid - Quotezone.co.uk
+title: Bank holiday DIY blunders to avoid - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: With a long weekend comes the temptation for many homeowners to break out the paint brushes and spirit level and embark on a range of DIY projects aro
 categories: ['Other Insurance']
 tags: ['Aug 2014', 'Story', 'News']
 permalink: news/Bank-holiday-DIY-blunders-to-avoid.htm

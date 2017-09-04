@@ -1,9 +1,11 @@
 ---
 layout: news
-title: Why are some speeding drivers escaping prosecution? - Quotezone.co.uk
+title: Why are some speeding drivers escaping prosecution? - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: In the last two years, over 5,000 motorists driving above the speed limit have escaped prosecution, according to a new report.
+
+The figures, released
 categories: ['Other Insurance']
 tags: ['Nov 2014', 'Story', 'News']
 permalink: news/Why-are-some-speeding-drivers-escaping-prosecution-.htm

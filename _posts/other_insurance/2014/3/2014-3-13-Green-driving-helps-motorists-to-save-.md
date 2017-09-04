@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Green driving 'helps motorists to save' - Quotezone.co.uk
+title: Green driving 'helps motorists to save' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Drivers across Ireland have been offered a range of helpful tips on how to drive in a more eco-friendly manner, helping them to reduce their emissions
 categories: ['Other Insurance']
 tags: ['Mar 2014', 'Story', 'News']
 permalink: news/Green-driving-helps-motorists-to-save-.htm

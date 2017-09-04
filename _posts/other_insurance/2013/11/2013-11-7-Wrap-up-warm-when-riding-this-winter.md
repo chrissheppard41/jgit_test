@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Wrap up warm when riding this winter - Quotezone.co.uk
+title: Wrap up warm when riding this winter - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Motorcycle enthusiasts across Northern Ireland need to be ready to face the rigours of winter, with colder temperatures set to take hold across many p
 categories: ['Other Insurance']
 tags: ['Nov 2013', 'Story', 'News']
 permalink: news/Wrap-up-warm-when-riding-this-winter.htm

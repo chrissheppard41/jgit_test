@@ -1,9 +1,9 @@
 ---
 layout: news
-title: 'Lost in translation' an issue for many travellers - Quotezone.co.uk
+title: 'Lost in translation' an issue for many travellers - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: New research from AA Financial Services has revealed the extent to which UK travellers are facing &#39;lost in translation&#39; moments when abroad.
 categories: ['Other Insurance']
 tags: ['May 2014', 'Story', 'News']
 permalink: news/-Lost-in-translation-an-issue-for-many-travellers.htm

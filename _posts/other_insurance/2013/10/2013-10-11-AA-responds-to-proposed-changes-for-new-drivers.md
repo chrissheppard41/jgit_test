@@ -1,9 +1,11 @@
 ---
 layout: news
-title: AA responds to proposed changes for new drivers - Quotezone.co.uk
+title: AA responds to proposed changes for new drivers - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: The government has published a range of new proposals aimed at reducing the likelihood of young drivers being involved in accidents.
+
+Young motorists
 categories: ['Other Insurance']
 tags: ['Oct 2013', 'Story', 'News']
 permalink: news/AA-responds-to-proposed-changes-for-new-drivers.htm

@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Wedding debts 'cause headaches for couples' - Quotezone.co.uk
+title: Wedding debts 'cause headaches for couples' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: New figures from the Debt Advisory Centre (DAC) have highlighted the significant number of newlyweds who regret taking out large borrowings to fund th
 categories: ['Other Insurance']
 tags: ['Jun 2014', 'Story', 'News']
 permalink: news/Wedding-debts-cause-headaches-for-couples-.htm

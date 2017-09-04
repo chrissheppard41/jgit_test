@@ -1,9 +1,11 @@
 ---
 layout: news
-title: How to avoid DIY mishaps - Quotezone.co.uk
+title: How to avoid DIY mishaps - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Bank holidays represent an excellent time to carry out home improvements, as people do not have to squeeze all of the work into a two-day weekend.
+
+Ho
 categories: ['Other Insurance']
 tags: ['Apr 2014', 'Story', 'News']
 permalink: news/How-to-avoid-DIY-mishaps.htm

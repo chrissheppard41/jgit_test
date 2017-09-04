@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Protect your home against extreme weather - Quotezone.co.uk
+title: Protect your home against extreme weather - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Property owners across Northern Ireland will be acutely aware that the weather has taken a significant turn for the worse over recent weeks as winter
 categories: ['Other Insurance']
 tags: ['Dec 2013', 'Story', 'News']
 permalink: news/Protect-your-home-against-extreme-weather.htm

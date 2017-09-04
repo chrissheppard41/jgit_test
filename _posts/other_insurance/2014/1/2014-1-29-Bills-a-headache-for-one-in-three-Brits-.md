@@ -1,9 +1,11 @@
 ---
 layout: news
-title: Bills 'a headache for one in three Brits' - Quotezone.co.uk
+title: Bills 'a headache for one in three Brits' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: Up to one third of all Britons face difficulties in paying their monthly bills on time, new research from thinkmoney has revealed.
+
+According to the o
 categories: ['Other Insurance']
 tags: ['Jan 2014', 'Story', 'News']
 permalink: news/Bills-a-headache-for-one-in-three-Brits-.htm

@@ -1,9 +1,9 @@
 ---
 layout: news
-title: Drivers affected by fake car insurance scam - Quotezone.co.uk
+title: Drivers affected by fake car insurance scam - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: After registering your car, one of the most important things to do is make sure you get your vehicle insured. Once you do so, you&#39;ll be covered fo
 categories: ['Other Insurance']
 tags: ['Oct 2014', 'Story', 'News']
 permalink: news/Drivers-affected-by-fake-car-insurance-scam.htm

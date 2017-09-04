@@ -1,9 +1,11 @@
 ---
 layout: news
-title: Bike safety campaign 'goes global' - Quotezone.co.uk
+title: Bike safety campaign 'goes global' - Compareni.com
 meta:
   keywords: car insurance, compare, cheap, uk, van, home, insure, quotes, online, comparison, bike, loans, life
-  description: Compare Car Insurance from Over 100 UK Providers. Get cheap quotes online now using our fast, free, secure comparison site
+  description: An award-winning road safety campaign is being expanded beyond the shores of the UK and is set to &quot;go global&quot;.
+
+Aimed at encouraging all mot
 categories: ['Other Insurance']
 tags: ['Jan 2015', 'Story', 'News']
 permalink: news/Bike-safety-campaign-goes-global-.htm
