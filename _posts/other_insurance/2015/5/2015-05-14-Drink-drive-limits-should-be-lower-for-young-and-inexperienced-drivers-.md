@@ -10,7 +10,7 @@ permalink: news/Drink-drive-limits-should-be-lower-for-young-and-inexperienced-d
 date: 2015-05-14 07:30:00
 news:
   title: Drink-drive limits 'should be lower for young and inexperienced drivers'
-  image: 1
+  image: 7051052
   feed: Axonn
   call_to_actions:
     - Other Insurance

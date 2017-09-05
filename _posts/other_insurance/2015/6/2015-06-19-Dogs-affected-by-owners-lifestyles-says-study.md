@@ -10,7 +10,7 @@ permalink: news/Dogs-affected-by-owners-lifestyles-says-study.htm
 date: 2015-06-19 07:30:00
 news:
   title: Dogs affected by owners' lifestyles, says study
-  image: 1
+  image: 14060361
   feed: Axonn
   call_to_actions:
     - Other Insurance

@@ -14,6 +14,7 @@ news:
   feed: Axonn
   call_to_actions:
     - Home Insurance
+    - Money
 breadcrumb:
   - title: News
     url: /news/index.htm

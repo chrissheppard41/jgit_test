@@ -10,7 +10,7 @@ permalink: news/CML-reports-drop-in-mortgage-arrears.htm
 date: 2015-05-19 07:30:00
 news:
   title: CML reports drop in mortgage arrears
-  image: 1
+  image: 8477
   feed: Axonn
   call_to_actions:
     - Other Insurance

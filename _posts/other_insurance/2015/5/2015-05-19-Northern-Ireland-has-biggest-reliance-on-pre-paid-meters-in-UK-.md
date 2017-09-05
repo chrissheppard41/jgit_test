@@ -10,7 +10,7 @@ permalink: news/Northern-Ireland-has-biggest-reliance-on-pre-paid-meters-in-UK-.
 date: 2015-05-19 07:30:00
 news:
   title: Northern Ireland 'has biggest reliance on pre-paid meters in UK'
-  image: 1
+  image: 7074262
   feed: Axonn
   call_to_actions:
     - Other Insurance

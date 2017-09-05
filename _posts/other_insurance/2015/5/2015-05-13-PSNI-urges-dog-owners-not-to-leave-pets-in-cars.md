@@ -10,7 +10,7 @@ permalink: news/PSNI-urges-dog-owners-not-to-leave-pets-in-cars.htm
 date: 2015-05-13 07:30:00
 news:
   title: PSNI urges dog owners not to leave pets in cars
-  image: 1
+  image: 4001662
   feed: Axonn
   call_to_actions:
     - Other Insurance
