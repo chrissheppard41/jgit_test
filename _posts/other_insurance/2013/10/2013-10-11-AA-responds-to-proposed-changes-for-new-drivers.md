@@ -10,7 +10,7 @@ permalink: news/AA-responds-to-proposed-changes-for-new-drivers.htm
 date: 2013-10-11 07:30:00
 news:
   title: AA responds to proposed changes for new drivers
-  image: 14047623
+  image: 1
   feed: Axonn
   call_to_actions:
     - Other Insurance

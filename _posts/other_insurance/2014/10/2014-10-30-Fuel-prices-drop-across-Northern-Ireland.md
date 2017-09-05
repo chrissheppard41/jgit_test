@@ -10,7 +10,7 @@ permalink: news/Fuel-prices-drop-across-Northern-Ireland.htm
 date: 2014-10-30 07:30:00
 news:
   title: Fuel prices drop across Northern Ireland
-  image: 14108269
+  image: 1
   feed: Axonn
   call_to_actions:
     - Other Insurance

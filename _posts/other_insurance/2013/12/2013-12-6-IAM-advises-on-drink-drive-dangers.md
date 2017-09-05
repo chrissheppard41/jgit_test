@@ -10,7 +10,7 @@ permalink: news/IAM-advises-on-drink-drive-dangers.htm
 date: 2013-12-06 07:30:00
 news:
   title: IAM advises on drink-drive dangers
-  image: 14081374
+  image: 1
   feed: Axonn
   call_to_actions:
     - Other Insurance

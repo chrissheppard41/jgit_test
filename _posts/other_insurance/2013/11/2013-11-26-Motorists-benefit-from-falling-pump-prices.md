@@ -10,7 +10,7 @@ permalink: news/Motorists-benefit-from-falling-pump-prices.htm
 date: 2013-11-26 07:30:00
 news:
   title: Motorists benefit from falling pump prices
-  image: 7069146
+  image: 1
   feed: Axonn
   call_to_actions:
     - Other Insurance

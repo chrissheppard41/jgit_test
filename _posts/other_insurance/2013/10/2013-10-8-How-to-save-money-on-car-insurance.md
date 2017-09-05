@@ -10,7 +10,7 @@ permalink: news/How-to-save-money-on-car-insurance.htm
 date: 2013-10-08 07:30:00
 news:
   title: How to save money on car insurance
-  image: 7038155
+  image: 1
   feed: Axonn
   call_to_actions:
     - Other Insurance

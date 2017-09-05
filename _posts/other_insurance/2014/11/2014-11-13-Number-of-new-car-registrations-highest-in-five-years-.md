@@ -10,7 +10,7 @@ permalink: news/Number-of-new-car-registrations-highest-in-five-years-.htm
 date: 2014-11-13 07:30:00
 news:
   title: Number of new car registrations 'highest in five years'
-  image: 14108697
+  image: 1
   feed: Axonn
   call_to_actions:
     - Other Insurance

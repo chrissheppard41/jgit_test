@@ -10,7 +10,7 @@ permalink: news/Seasonal-driving-advice-for-motorists.htm
 date: 2013-10-31 07:30:00
 news:
   title: Seasonal driving advice for motorists
-  image: 14001775
+  image: 1
   feed: Axonn
   call_to_actions:
     - Other Insurance

@@ -10,7 +10,7 @@ permalink: news/People-stash-cash-in-jam-jars-to-budget.htm
 date: 2014-11-19 07:30:00
 news:
   title: People stash cash in jam jars to budget
-  image: 5005
+  image: 1
   feed: Axonn
   call_to_actions:
     - Other Insurance

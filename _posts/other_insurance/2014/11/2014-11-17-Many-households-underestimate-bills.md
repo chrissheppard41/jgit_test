@@ -10,7 +10,7 @@ permalink: news/Many-households-underestimate-bills.htm
 date: 2014-11-17 07:30:00
 news:
   title: Many households underestimate bills
-  image: 7040664
+  image: 1
   feed: Axonn
   call_to_actions:
     - Other Insurance

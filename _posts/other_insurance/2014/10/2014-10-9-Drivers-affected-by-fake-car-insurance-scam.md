@@ -10,7 +10,7 @@ permalink: news/Drivers-affected-by-fake-car-insurance-scam.htm
 date: 2014-10-09 07:30:00
 news:
   title: Drivers affected by fake car insurance scam
-  image: 14107589
+  image: 1
   feed: Axonn
   call_to_actions:
     - Other Insurance

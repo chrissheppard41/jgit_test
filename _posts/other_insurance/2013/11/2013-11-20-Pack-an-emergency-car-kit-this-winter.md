@@ -10,7 +10,7 @@ permalink: news/Pack-an-emergency-car-kit-this-winter.htm
 date: 2013-11-20 07:30:00
 news:
   title: Pack an emergency car kit this winter
-  image: 14095107
+  image: 1
   feed: Axonn
   call_to_actions:
     - Other Insurance

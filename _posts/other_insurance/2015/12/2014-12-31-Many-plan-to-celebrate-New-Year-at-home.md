@@ -12,7 +12,7 @@ permalink: news/Many-plan-to-celebrate-New-Year-at-home.htm
 date: 2014-12-31 07:30:00
 news:
   title: Many plan to celebrate New Year at home
-  image: 14109812
+  image: 1
   feed: Axonn
   call_to_actions:
     - Other Insurance

@@ -10,7 +10,7 @@ permalink: news/Payday-loan-changes-to-help-consumers.htm
 date: 2014-11-18 07:30:00
 news:
   title: Payday loan changes to help consumers
-  image: 14057824
+  image: 1
   feed: Axonn
   call_to_actions:
     - Other Insurance

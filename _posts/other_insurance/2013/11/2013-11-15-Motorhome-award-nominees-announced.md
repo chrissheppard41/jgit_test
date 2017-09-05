@@ -10,7 +10,7 @@ permalink: news/Motorhome-award-nominees-announced.htm
 date: 2013-11-15 07:30:00
 news:
   title: Motorhome award nominees announced
-  image: 7047392
+  image: 1
   feed: Axonn
   call_to_actions:
     - Other Insurance

@@ -10,7 +10,7 @@ permalink: news/Fit-winter-tyres-to-improve-grip-in-ice-and-snow.htm
 date: 2013-10-29 07:30:00
 news:
   title: Fit winter tyres to improve grip in ice and snow
-  image: 14083278
+  image: 1
   feed: Axonn
   call_to_actions:
     - Other Insurance

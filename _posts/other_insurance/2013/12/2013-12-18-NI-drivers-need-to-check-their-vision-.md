@@ -10,7 +10,7 @@ permalink: news/NI-drivers-need-to-check-their-vision-.htm
 date: 2013-12-18 07:30:00
 news:
   title: NI drivers 'need to check their vision'
-  image: 14021395
+  image: 1
   feed: Axonn
   call_to_actions:
     - Other Insurance

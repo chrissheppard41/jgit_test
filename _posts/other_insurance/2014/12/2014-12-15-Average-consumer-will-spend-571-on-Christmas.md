@@ -10,7 +10,7 @@ permalink: news/Average-consumer-will-spend-571-on-Christmas.htm
 date: 2014-12-15 07:30:00
 news:
   title: Average consumer will spend £571 on Christmas
-  image: 14109523
+  image: 1
   feed: Axonn
   call_to_actions:
     - Other Insurance

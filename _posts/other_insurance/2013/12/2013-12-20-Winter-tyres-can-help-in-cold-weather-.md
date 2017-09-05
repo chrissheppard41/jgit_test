@@ -10,7 +10,7 @@ permalink: news/Winter-tyres-can-help-in-cold-weather-.htm
 date: 2013-12-20 07:30:00
 news:
   title: Winter tyres 'can help in cold weather'
-  image: 14095266
+  image: 1
   feed: Axonn
   call_to_actions:
     - Other Insurance

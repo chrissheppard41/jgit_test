@@ -10,7 +10,7 @@ permalink: news/What-to-do-when-faced-with-a-breakdown.htm
 date: 2013-10-24 07:30:00
 news:
   title: What to do when faced with a breakdown
-  image: 7067939
+  image: 1
   feed: Axonn
   call_to_actions:
     - Other Insurance

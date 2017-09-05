@@ -10,7 +10,7 @@ permalink: news/Give-your-pets-a-merry-Christmas.htm
 date: 2013-12-24 07:30:00
 news:
   title: Give your pets a merry Christmas
-  image: 7021911
+  image: 1
   feed: Axonn
   call_to_actions:
     - Other Insurance

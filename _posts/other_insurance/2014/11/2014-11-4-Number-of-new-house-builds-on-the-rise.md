@@ -10,7 +10,7 @@ permalink: news/Number-of-new-house-builds-on-the-rise.htm
 date: 2014-11-04 07:30:00
 news:
   title: Number of new house builds on the rise
-  image: 14108366
+  image: 1
   feed: Axonn
   call_to_actions:
     - Other Insurance

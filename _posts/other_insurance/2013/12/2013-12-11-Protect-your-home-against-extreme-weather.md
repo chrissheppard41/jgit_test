@@ -10,7 +10,7 @@ permalink: news/Protect-your-home-against-extreme-weather.htm
 date: 2013-12-11 07:30:00
 news:
   title: Protect your home against extreme weather
-  image: 7024095
+  image: 1
   feed: Axonn
   call_to_actions:
     - Other Insurance

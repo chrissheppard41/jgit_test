@@ -10,7 +10,7 @@ permalink: news/Wrap-up-warm-when-riding-this-winter.htm
 date: 2013-11-07 07:30:00
 news:
   title: Wrap up warm when riding this winter
-  image: 7078408
+  image: 1
   feed: Axonn
   call_to_actions:
     - Other Insurance

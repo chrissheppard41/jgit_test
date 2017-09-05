@@ -10,7 +10,7 @@ permalink: news/NI-s-older-community-set-to-contribute-billions-to-the-economy.h
 date: 2014-10-22 07:30:00
 news:
   title: NI's older community set to contribute billions to the economy
-  image: 14108000
+  image: 1
   feed: Axonn
   call_to_actions:
     - Other Insurance

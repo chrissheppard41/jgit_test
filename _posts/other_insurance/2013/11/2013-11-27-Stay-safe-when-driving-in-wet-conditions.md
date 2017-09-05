@@ -10,7 +10,7 @@ permalink: news/Stay-safe-when-driving-in-wet-conditions.htm
 date: 2013-11-27 07:30:00
 news:
   title: Stay safe when driving in wet conditions
-  image: 7019902
+  image: 1
   feed: Axonn
   call_to_actions:
     - Other Insurance
