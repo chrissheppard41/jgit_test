@@ -10,7 +10,7 @@ permalink: news/Moth-mayhem-may-cause-large-home-insurance-policy-claim.htm
 date: 2017-09-04 07:30:00
 news:
   title: Moth mayhem may cause large home insurance policy claim
-  image: 1
+  image: 15102
   feed: Axonn
   call_to_actions:
     - Home Insurance
