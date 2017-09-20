@@ -1,10 +1,10 @@
 ---
 layout: news
-title: Sep 2017 archive - Compareni.com
+title: Sep 2017 archive - Quotezone.co.uk
 page_title: Index
 meta:
   keywords: Insurance, Finance, Cover, Liability news
-  description: Insurance, Finance, Cover, Liability news at Compareni.com
+  description: Insurance, Finance, Cover, Liability news at Quotezone.co.uk
 permalink: news/archive/2017/9.htm
 categories: []
 tags: ["monthly"]
